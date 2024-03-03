@@ -1,0 +1,34 @@
+{
+    "Year": "2010",
+    "Type": "Total AV and Games Played per Round",
+    "Data": {
+        "1": {
+            "total_av": 1596.0,
+            "total_games": 4034.0
+        },
+        "2": {
+            "total_av": 856.0,
+            "total_games": 2653.0
+        },
+        "3": {
+            "total_av": 734.0,
+            "total_games": 2578.0
+        },
+        "4": {
+            "total_av": 456.0,
+            "total_games": 1819.0
+        },
+        "5": {
+            "total_av": 334.0,
+            "total_games": 1833.0
+        },
+        "6": {
+            "total_av": 313.0,
+            "total_games": 1481.0
+        },
+        "7": {
+            "total_av": 264.0,
+            "total_games": 1764.0
+        }
+    }
+}

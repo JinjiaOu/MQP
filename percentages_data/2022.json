@@ -1,0 +1,42 @@
+{
+    "Year": "2022",
+    "Type": "Total AV and Games Played per Round with Percentages",
+    "Data": {
+        "1": {
+            "total_av": 174.0,
+            "total_games": 649.0,
+            "games_percentage": 15.763905756618898
+        },
+        "2": {
+            "total_av": 101.0,
+            "total_games": 610.0,
+            "games_percentage": 14.81661403934904
+        },
+        "3": {
+            "total_av": 112.0,
+            "total_games": 738.0,
+            "games_percentage": 17.925674034491134
+        },
+        "4": {
+            "total_av": 84.0,
+            "total_games": 668.0,
+            "games_percentage": 16.225406849647804
+        },
+        "5": {
+            "total_av": 64.0,
+            "total_games": 528.0,
+            "games_percentage": 12.824872479961137
+        },
+        "6": {
+            "total_av": 32.0,
+            "total_games": 458.0,
+            "games_percentage": 11.124605295117803
+        },
+        "7": {
+            "total_av": 43.0,
+            "total_games": 466.0,
+            "games_percentage": 11.318921544814184
+        }
+    },
+    "Total Games Played for the Year": 4117.0
+}

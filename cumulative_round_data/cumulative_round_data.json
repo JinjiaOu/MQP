@@ -1,0 +1,47 @@
+{
+    "Type": "Cumulative Round Data with Percentages",
+    "Cumulative Round Data": {
+        "1": {
+            "total_av": 27326.0,
+            "total_games": 69498.0,
+            "av_percentage": 31.111313515421312,
+            "games_percentage": 21.33365257991141
+        },
+        "2": {
+            "total_av": 17836.0,
+            "total_games": 56696.0,
+            "av_percentage": 20.306718431569003,
+            "games_percentage": 17.403849990944448
+        },
+        "3": {
+            "total_av": 13254.0,
+            "total_games": 51306.0,
+            "av_percentage": 15.090000341557275,
+            "games_percentage": 15.749293206494212
+        },
+        "4": {
+            "total_av": 10605.0,
+            "total_games": 46775.0,
+            "av_percentage": 12.07404961688659,
+            "games_percentage": 14.358421816819996
+        },
+        "5": {
+            "total_av": 7633.0,
+            "total_games": 38273.0,
+            "av_percentage": 8.690355561121674,
+            "games_percentage": 11.748581041050812
+        },
+        "6": {
+            "total_av": 5947.0,
+            "total_games": 33315.0,
+            "av_percentage": 6.770803684264457,
+            "games_percentage": 10.226634373647423
+        },
+        "7": {
+            "total_av": 5232.0,
+            "total_games": 29904.0,
+            "av_percentage": 5.9567588491796934,
+            "games_percentage": 9.179566991131699
+        }
+    }
+}

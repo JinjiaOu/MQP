@@ -1,0 +1,34 @@
+{
+    "Year": "2023",
+    "Type": "Total AV and Games Played per Round",
+    "Data": {
+        "1": {
+            "total_av": 0.0,
+            "total_games": 213.0
+        },
+        "2": {
+            "total_av": 0.0,
+            "total_games": 214.0
+        },
+        "3": {
+            "total_av": 0.0,
+            "total_games": 222.0
+        },
+        "4": {
+            "total_av": 0.0,
+            "total_games": 158.0
+        },
+        "5": {
+            "total_av": 0.0,
+            "total_games": 165.0
+        },
+        "6": {
+            "total_av": 0.0,
+            "total_games": 155.0
+        },
+        "7": {
+            "total_av": 0.0,
+            "total_games": 84.0
+        }
+    }
+}

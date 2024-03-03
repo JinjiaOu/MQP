@@ -1,0 +1,50 @@
+{
+    "Year": "2003",
+    "Type": "Total AV and Games Played per Round with Percentages",
+    "Round Data": {
+        "1": {
+            "total_av": 1425.0,
+            "total_games": 3711.0,
+            "av_percentage": 30.120481927710845,
+            "games_percentage": 21.595670391061454
+        },
+        "2": {
+            "total_av": 896.0,
+            "total_games": 2880.0,
+            "av_percentage": 18.93891354893257,
+            "games_percentage": 16.75977653631285
+        },
+        "3": {
+            "total_av": 734.0,
+            "total_games": 2799.0,
+            "av_percentage": 15.514690340308604,
+            "games_percentage": 16.28840782122905
+        },
+        "4": {
+            "total_av": 617.0,
+            "total_games": 2521.0,
+            "av_percentage": 13.04164024519129,
+            "games_percentage": 14.670623836126628
+        },
+        "5": {
+            "total_av": 557.0,
+            "total_games": 2340.0,
+            "av_percentage": 11.773409427182415,
+            "games_percentage": 13.61731843575419
+        },
+        "6": {
+            "total_av": 291.0,
+            "total_games": 1607.0,
+            "av_percentage": 6.150919467343057,
+            "games_percentage": 9.351722532588454
+        },
+        "7": {
+            "total_av": 211.0,
+            "total_games": 1326.0,
+            "av_percentage": 4.45994504333122,
+            "games_percentage": 7.716480446927375
+        }
+    },
+    "Total Games Played for the Year": 17184.0,
+    "Total AV for the Year": 4731.0
+}

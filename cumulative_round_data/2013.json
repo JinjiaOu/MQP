@@ -1,0 +1,50 @@
+{
+    "Year": "2013",
+    "Type": "Total AV and Games Played per Round with Percentages",
+    "Round Data": {
+        "1": {
+            "total_av": 1046.0,
+            "total_games": 2928.0,
+            "av_percentage": 26.301232084485793,
+            "games_percentage": 19.58921522713588
+        },
+        "2": {
+            "total_av": 804.0,
+            "total_games": 2647.0,
+            "av_percentage": 20.2162433995474,
+            "games_percentage": 17.70923931223657
+        },
+        "3": {
+            "total_av": 784.0,
+            "total_games": 2691.0,
+            "av_percentage": 19.713351772692985,
+            "games_percentage": 18.003612765103366
+        },
+        "4": {
+            "total_av": 419.0,
+            "total_games": 1884.0,
+            "av_percentage": 10.535579582599949,
+            "games_percentage": 12.604536027296447
+        },
+        "5": {
+            "total_av": 385.0,
+            "total_games": 1839.0,
+            "av_percentage": 9.680663816947447,
+            "games_percentage": 12.303472268682679
+        },
+        "6": {
+            "total_av": 354.0,
+            "total_games": 1669.0,
+            "av_percentage": 8.901181795323108,
+            "games_percentage": 11.16612029169733
+        },
+        "7": {
+            "total_av": 185.0,
+            "total_games": 1289.0,
+            "av_percentage": 4.6517475484033195,
+            "games_percentage": 8.623804107847729
+        }
+    },
+    "Total Games Played for the Year": 14947.0,
+    "Total AV for the Year": 3977.0
+}

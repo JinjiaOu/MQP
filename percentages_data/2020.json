@@ -1,0 +1,42 @@
+{
+    "Year": "2020",
+    "Type": "Total AV and Games Played per Round with Percentages",
+    "Data": {
+        "1": {
+            "total_av": 541.0,
+            "total_games": 1337.0,
+            "games_percentage": 15.316760224538895
+        },
+        "2": {
+            "total_av": 485.0,
+            "total_games": 1440.0,
+            "games_percentage": 16.49673502119372
+        },
+        "3": {
+            "total_av": 337.0,
+            "total_games": 1595.0,
+            "games_percentage": 18.272425249169437
+        },
+        "4": {
+            "total_av": 228.0,
+            "total_games": 1421.0,
+            "games_percentage": 16.27906976744186
+        },
+        "5": {
+            "total_av": 125.0,
+            "total_games": 914.0,
+            "games_percentage": 10.470844312063237
+        },
+        "6": {
+            "total_av": 171.0,
+            "total_games": 1146.0,
+            "games_percentage": 13.128651621033338
+        },
+        "7": {
+            "total_av": 112.0,
+            "total_games": 876.0,
+            "games_percentage": 10.035513804559514
+        }
+    },
+    "Total Games Played for the Year": 8729.0
+}

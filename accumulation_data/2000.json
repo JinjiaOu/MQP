@@ -1,0 +1,34 @@
+{
+    "Year": "2000",
+    "Type": "Total AV and Games Played per Round",
+    "Data": {
+        "1": {
+            "total_av": 1292.0,
+            "total_games": 3509.0
+        },
+        "2": {
+            "total_av": 1026.0,
+            "total_games": 3237.0
+        },
+        "3": {
+            "total_av": 555.0,
+            "total_games": 2262.0
+        },
+        "4": {
+            "total_av": 383.0,
+            "total_games": 1911.0
+        },
+        "5": {
+            "total_av": 349.0,
+            "total_games": 1990.0
+        },
+        "6": {
+            "total_av": 616.0,
+            "total_games": 1998.0
+        },
+        "7": {
+            "total_av": 278.0,
+            "total_games": 1809.0
+        }
+    }
+}

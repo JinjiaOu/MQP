@@ -1,0 +1,34 @@
+{
+    "Year": "2022",
+    "Type": "Total AV and Games Played per Round",
+    "Data": {
+        "1": {
+            "total_av": 174.0,
+            "total_games": 649.0
+        },
+        "2": {
+            "total_av": 101.0,
+            "total_games": 610.0
+        },
+        "3": {
+            "total_av": 112.0,
+            "total_games": 738.0
+        },
+        "4": {
+            "total_av": 84.0,
+            "total_games": 668.0
+        },
+        "5": {
+            "total_av": 64.0,
+            "total_games": 528.0
+        },
+        "6": {
+            "total_av": 32.0,
+            "total_games": 458.0
+        },
+        "7": {
+            "total_av": 43.0,
+            "total_games": 466.0
+        }
+    }
+}

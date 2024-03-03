@@ -1,0 +1,1815 @@
+[
+    {
+        "Round": 1,
+        "Pick": 1,
+        "Total Value": 37955071,
+        "Signing Bonus": 24603688,
+        "2023 CAP": 6900922
+    },
+    {
+        "Round": 1,
+        "Pick": 2,
+        "Total Value": 36279243,
+        "Signing Bonus": 23384904,
+        "2023 CAP": 6596226
+    },
+    {
+        "Round": 1,
+        "Pick": 3,
+        "Total Value": 35212827,
+        "Signing Bonus": 22609328,
+        "2023 CAP": 6402332
+    },
+    {
+        "Round": 1,
+        "Pick": 4,
+        "Total Value": 33994031,
+        "Signing Bonus": 21722932,
+        "2023 CAP": 6180733
+    },
+    {
+        "Round": 1,
+        "Pick": 5,
+        "Total Value": 31861153,
+        "Signing Bonus": 20171748,
+        "2023 CAP": 5792937
+    },
+    {
+        "Round": 1,
+        "Pick": 6,
+        "Total Value": 28052454,
+        "Signing Bonus": 17401784,
+        "2023 CAP": 5100446
+    },
+    {
+        "Round": 1,
+        "Pick": 7,
+        "Total Value": 25005497,
+        "Signing Bonus": 15185816,
+        "2023 CAP": 4546454
+    },
+    {
+        "Round": 1,
+        "Pick": 8,
+        "Total Value": 21958535,
+        "Signing Bonus": 12969844,
+        "2023 CAP": 3992461
+    },
+    {
+        "Round": 1,
+        "Pick": 9,
+        "Total Value": 21806014,
+        "Signing Bonus": 12858919,
+        "2023 CAP": 3964730
+    },
+    {
+        "Round": 1,
+        "Pick": 10,
+        "Total Value": 20968267,
+        "Signing Bonus": 12249648,
+        "2023 CAP": 3812412
+    },
+    {
+        "Round": 1,
+        "Pick": 11,
+        "Total Value": 19673318,
+        "Signing Bonus": 11307868,
+        "2023 CAP": 3576967
+    },
+    {
+        "Round": 1,
+        "Pick": 12,
+        "Total Value": 17845130,
+        "Signing Bonus": 9978276,
+        "2023 CAP": 3244569
+    },
+    {
+        "Round": 1,
+        "Pick": 13,
+        "Total Value": 17388091,
+        "Signing Bonus": 9645884,
+        "2023 CAP": 3161471
+    },
+    {
+        "Round": 1,
+        "Pick": 14,
+        "Total Value": 16626352,
+        "Signing Bonus": 9091892,
+        "2023 CAP": 3022973
+    },
+    {
+        "Round": 1,
+        "Pick": 15,
+        "Total Value": 16321674,
+        "Signing Bonus": 8870308,
+        "2023 CAP": 2967577
+    },
+    {
+        "Round": 1,
+        "Pick": 16,
+        "Total Value": 15407567,
+        "Signing Bonus": 8205504,
+        "2023 CAP": 2801376
+    },
+    {
+        "Round": 1,
+        "Pick": 17,
+        "Total Value": 15102868,
+        "Signing Bonus": 7983904,
+        "2023 CAP": 2745976
+    },
+    {
+        "Round": 1,
+        "Pick": 18,
+        "Total Value": 14722004,
+        "Signing Bonus": 7706912,
+        "2023 CAP": 2676728
+    },
+    {
+        "Round": 1,
+        "Pick": 19,
+        "Total Value": 14493474,
+        "Signing Bonus": 7540708,
+        "2023 CAP": 2635177
+    },
+    {
+        "Round": 1,
+        "Pick": 20,
+        "Total Value": 14417307,
+        "Signing Bonus": 7485316,
+        "2023 CAP": 2621329
+    },
+    {
+        "Round": 1,
+        "Pick": 21,
+        "Total Value": 14188778,
+        "Signing Bonus": 7319112,
+        "2023 CAP": 2579778
+    },
+    {
+        "Round": 1,
+        "Pick": 22,
+        "Total Value": 14036434,
+        "Signing Bonus": 7208316,
+        "2023 CAP": 2552079
+    },
+    {
+        "Round": 1,
+        "Pick": 23,
+        "Total Value": 13731740,
+        "Signing Bonus": 6986720,
+        "2023 CAP": 2496680
+    },
+    {
+        "Round": 1,
+        "Pick": 24,
+        "Total Value": 13579395,
+        "Signing Bonus": 6875924,
+        "2023 CAP": 2468981
+    },
+    {
+        "Round": 1,
+        "Pick": 25,
+        "Total Value": 13427023,
+        "Signing Bonus": 6765108,
+        "2023 CAP": 2441277
+    },
+    {
+        "Round": 1,
+        "Pick": 26,
+        "Total Value": 13274696,
+        "Signing Bonus": 6654324,
+        "2023 CAP": 2413581
+    },
+    {
+        "Round": 1,
+        "Pick": 27,
+        "Total Value": 13198521,
+        "Signing Bonus": 6598924,
+        "2023 CAP": 2399731
+    },
+    {
+        "Round": 1,
+        "Pick": 28,
+        "Total Value": 12587262,
+        "Signing Bonus": 6154372,
+        "2023 CAP": 2288593
+    },
+    {
+        "Round": 1,
+        "Pick": 29,
+        "Total Value": 12263560,
+        "Signing Bonus": 5918952,
+        "2023 CAP": 2229738
+    },
+    {
+        "Round": 1,
+        "Pick": 30,
+        "Total Value": 11992409,
+        "Signing Bonus": 5721752,
+        "2023 CAP": 2180438
+    },
+    {
+        "Round": 1,
+        "Pick": 31,
+        "Total Value": 11817817,
+        "Signing Bonus": 5594776,
+        "2023 CAP": 2148694
+    },
+    {
+        "Round": 2,
+        "Pick": 32,
+        "Total Value": 9618345,
+        "Signing Bonus": 3995160,
+        "2023 CAP": 1748790
+    },
+    {
+        "Round": 2,
+        "Pick": 33,
+        "Total Value": 9542165,
+        "Signing Bonus": 3939756,
+        "2023 CAP": 1734939
+    },
+    {
+        "Round": 2,
+        "Pick": 34,
+        "Total Value": 9465990,
+        "Signing Bonus": 3884356,
+        "2023 CAP": 1721089
+    },
+    {
+        "Round": 2,
+        "Pick": 35,
+        "Total Value": 9313646,
+        "Signing Bonus": 3773560,
+        "2023 CAP": 1693390
+    },
+    {
+        "Round": 2,
+        "Pick": 36,
+        "Total Value": 9252708,
+        "Signing Bonus": 3729244,
+        "2023 CAP": 1682311
+    },
+    {
+        "Round": 2,
+        "Pick": 37,
+        "Total Value": 9115576,
+        "Signing Bonus": 3629512,
+        "2023 CAP": 1657378
+    },
+    {
+        "Round": 2,
+        "Pick": 38,
+        "Total Value": 8978480,
+        "Signing Bonus": 3529804,
+        "2023 CAP": 1632451
+    },
+    {
+        "Round": 2,
+        "Pick": 39,
+        "Total Value": 8856596,
+        "Signing Bonus": 3441160,
+        "2023 CAP": 1610290
+    },
+    {
+        "Round": 2,
+        "Pick": 40,
+        "Total Value": 8734721,
+        "Signing Bonus": 3352524,
+        "2023 CAP": 1588131
+    },
+    {
+        "Round": 2,
+        "Pick": 41,
+        "Total Value": 8597607,
+        "Signing Bonus": 3252804,
+        "2023 CAP": 1563201
+    },
+    {
+        "Round": 2,
+        "Pick": 42,
+        "Total Value": 8475732,
+        "Signing Bonus": 3164168,
+        "2023 CAP": 1541042
+    },
+    {
+        "Round": 2,
+        "Pick": 43,
+        "Total Value": 8359598,
+        "Signing Bonus": 3079708,
+        "2023 CAP": 1519927
+    },
+    {
+        "Round": 2,
+        "Pick": 44,
+        "Total Value": 8196937,
+        "Signing Bonus": 2961408,
+        "2023 CAP": 1490352
+    },
+    {
+        "Round": 2,
+        "Pick": 45,
+        "Total Value": 8021730,
+        "Signing Bonus": 2833984,
+        "2023 CAP": 1458496
+    },
+    {
+        "Round": 2,
+        "Pick": 46,
+        "Total Value": 7790161,
+        "Signing Bonus": 2665572,
+        "2023 CAP": 1416393
+    },
+    {
+        "Round": 2,
+        "Pick": 47,
+        "Total Value": 7637818,
+        "Signing Bonus": 2554776,
+        "2023 CAP": 1388694
+    },
+    {
+        "Round": 2,
+        "Pick": 48,
+        "Total Value": 7485456,
+        "Signing Bonus": 2443968,
+        "2023 CAP": 1360992
+    },
+    {
+        "Round": 2,
+        "Pick": 49,
+        "Total Value": 7333121,
+        "Signing Bonus": 2333180,
+        "2023 CAP": 1333295
+    },
+    {
+        "Round": 2,
+        "Pick": 50,
+        "Total Value": 7180777,
+        "Signing Bonus": 2222384,
+        "2023 CAP": 1305596
+    },
+    {
+        "Round": 2,
+        "Pick": 51,
+        "Total Value": 7028424,
+        "Signing Bonus": 2111580,
+        "2023 CAP": 1277895
+    },
+    {
+        "Round": 2,
+        "Pick": 52,
+        "Total Value": 6876079,
+        "Signing Bonus": 2000784,
+        "2023 CAP": 1250196
+    },
+    {
+        "Round": 2,
+        "Pick": 53,
+        "Total Value": 6723728,
+        "Signing Bonus": 1889984,
+        "2023 CAP": 1222496
+    },
+    {
+        "Round": 2,
+        "Pick": 54,
+        "Total Value": 6571383,
+        "Signing Bonus": 1779188,
+        "2023 CAP": 1194797
+    },
+    {
+        "Round": 2,
+        "Pick": 55,
+        "Total Value": 6495208,
+        "Signing Bonus": 1723788,
+        "2023 CAP": 1180947
+    },
+    {
+        "Round": 2,
+        "Pick": 56,
+        "Total Value": 6449498,
+        "Signing Bonus": 1690544,
+        "2023 CAP": 1172636
+    },
+    {
+        "Round": 2,
+        "Pick": 57,
+        "Total Value": 6373334,
+        "Signing Bonus": 1635152,
+        "2023 CAP": 1158788
+    },
+    {
+        "Round": 2,
+        "Pick": 58,
+        "Total Value": 6266688,
+        "Signing Bonus": 1557592,
+        "2023 CAP": 1139398
+    },
+    {
+        "Round": 2,
+        "Pick": 59,
+        "Total Value": 6220978,
+        "Signing Bonus": 1524348,
+        "2023 CAP": 1131087
+    },
+    {
+        "Round": 2,
+        "Pick": 60,
+        "Total Value": 6160043,
+        "Signing Bonus": 1480032,
+        "2023 CAP": 1120008
+    },
+    {
+        "Round": 2,
+        "Pick": 61,
+        "Total Value": 6114333,
+        "Signing Bonus": 1446788,
+        "2023 CAP": 1111697
+    },
+    {
+        "Round": 2,
+        "Pick": 62,
+        "Total Value": 6099103,
+        "Signing Bonus": 1435712,
+        "2023 CAP": 1108928
+    },
+    {
+        "Round": 2,
+        "Pick": 63,
+        "Total Value": 6068635,
+        "Signing Bonus": 1413552,
+        "2023 CAP": 1103388
+    },
+    {
+        "Round": 3,
+        "Pick": 64,
+        "Total Value": 5763791,
+        "Signing Bonus": 1191848,
+        "2023 CAP": 1047962
+    },
+    {
+        "Round": 3,
+        "Pick": 65,
+        "Total Value": 5750443,
+        "Signing Bonus": 1182140,
+        "2023 CAP": 1045535
+    },
+    {
+        "Round": 3,
+        "Pick": 66,
+        "Total Value": 5744441,
+        "Signing Bonus": 1177776,
+        "2023 CAP": 1044444
+    },
+    {
+        "Round": 3,
+        "Pick": 67,
+        "Total Value": 5734728,
+        "Signing Bonus": 1170712,
+        "2023 CAP": 1042678
+    },
+    {
+        "Round": 3,
+        "Pick": 68,
+        "Total Value": 5719021,
+        "Signing Bonus": 1159288,
+        "2023 CAP": 789823
+    },
+    {
+        "Round": 3,
+        "Pick": 69,
+        "Total Value": 5689104,
+        "Signing Bonus": 1137528,
+        "2023 CAP": 951049
+    },
+    {
+        "Round": 3,
+        "Pick": 70,
+        "Total Value": 5668712,
+        "Signing Bonus": 1122700,
+        "2023 CAP": 1030675
+    },
+    {
+        "Round": 3,
+        "Pick": 71,
+        "Total Value": 5654319,
+        "Signing Bonus": 1112232,
+        "2023 CAP": 1028058
+    },
+    {
+        "Round": 3,
+        "Pick": 72,
+        "Total Value": 5634930,
+        "Signing Bonus": 1098132,
+        "2023 CAP": 924533
+    },
+    {
+        "Round": 3,
+        "Pick": 73,
+        "Total Value": 5625313,
+        "Signing Bonus": 1091136,
+        "2023 CAP": 1022784
+    },
+    {
+        "Round": 3,
+        "Pick": 74,
+        "Total Value": 5614512,
+        "Signing Bonus": 1080336,
+        "2023 CAP": 1020084
+    },
+    {
+        "Round": 3,
+        "Pick": 75,
+        "Total Value": 5568448,
+        "Signing Bonus": 1049780,
+        "2023 CAP": 1012445
+    },
+    {
+        "Round": 3,
+        "Pick": 76,
+        "Total Value": 5563706,
+        "Signing Bonus": 1046332,
+        "2023 CAP": 1011583
+    },
+    {
+        "Round": 3,
+        "Pick": 77,
+        "Total Value": 5556667,
+        "Signing Bonus": 1041212,
+        "2023 CAP": 1010303
+    },
+    {
+        "Round": 3,
+        "Pick": 78,
+        "Total Value": 5537934,
+        "Signing Bonus": 1027588,
+        "2023 CAP": 1006897
+    },
+    {
+        "Round": 3,
+        "Pick": 79,
+        "Total Value": 5520459,
+        "Signing Bonus": 1014880,
+        "2023 CAP": 1003720
+    },
+    {
+        "Round": 3,
+        "Pick": 80,
+        "Total Value": 5502986,
+        "Signing Bonus": 1002172,
+        "2023 CAP": 1000543
+    },
+    {
+        "Round": 3,
+        "Pick": 81,
+        "Total Value": 5490614,
+        "Signing Bonus": 993176,
+        "2023 CAP": 998294
+    },
+    {
+        "Round": 3,
+        "Pick": 82,
+        "Total Value": 5465411,
+        "Signing Bonus": 974844,
+        "2023 CAP": 993711
+    },
+    {
+        "Round": 3,
+        "Pick": 83,
+        "Total Value": 5447487,
+        "Signing Bonus": 961808,
+        "2023 CAP": 990452
+    },
+    {
+        "Round": 3,
+        "Pick": 84,
+        "Total Value": 5437449,
+        "Signing Bonus": 954508,
+        "2023 CAP": 905293
+    },
+    {
+        "Round": 3,
+        "Pick": 85,
+        "Total Value": 5420421,
+        "Signing Bonus": 942124,
+        "2023 CAP": 985531
+    },
+    {
+        "Round": 3,
+        "Pick": 86,
+        "Total Value": 5408845,
+        "Signing Bonus": 930548,
+        "2023 CAP": 982637
+    },
+    {
+        "Round": 3,
+        "Pick": 87,
+        "Total Value": 5395807,
+        "Signing Bonus": 924224,
+        "2023 CAP": 981056
+    },
+    {
+        "Round": 3,
+        "Pick": 88,
+        "Total Value": 5392915,
+        "Signing Bonus": 922120,
+        "2023 CAP": 980530
+    },
+    {
+        "Round": 3,
+        "Pick": 89,
+        "Total Value": 5391473,
+        "Signing Bonus": 921072,
+        "2023 CAP": 980268
+    },
+    {
+        "Round": 3,
+        "Pick": 90,
+        "Total Value": 5390028,
+        "Signing Bonus": 920020,
+        "2023 CAP": 680005
+    },
+    {
+        "Round": 3,
+        "Pick": 91,
+        "Total Value": 5472806,
+        "Signing Bonus": 914768,
+        "2023 CAP": 978692
+    },
+    {
+        "Round": 3,
+        "Pick": 92,
+        "Total Value": 5368357,
+        "Signing Bonus": 904260,
+        "2023 CAP": 976065
+    },
+    {
+        "Round": 3,
+        "Pick": 93,
+        "Total Value": 5353909,
+        "Signing Bonus": 893752,
+        "2023 CAP": 973438
+    },
+    {
+        "Round": 3,
+        "Pick": 94,
+        "Total Value": 5339461,
+        "Signing Bonus": 883244,
+        "2023 CAP": 970811
+    },
+    {
+        "Round": 3,
+        "Pick": 95,
+        "Total Value": 5325017,
+        "Signing Bonus": 872740,
+        "2023 CAP": 968185
+    },
+    {
+        "Round": 3,
+        "Pick": 96,
+        "Total Value": 5304084,
+        "Signing Bonus": 857516,
+        "2023 CAP": 964379
+    },
+    {
+        "Round": 3,
+        "Pick": 97,
+        "Total Value": 5304084,
+        "Signing Bonus": 857516,
+        "2023 CAP": 814379
+    },
+    {
+        "Round": 3,
+        "Pick": 98,
+        "Total Value": 5461580,
+        "Signing Bonus": 857512,
+        "2023 CAP": 964378
+    },
+    {
+        "Round": 3,
+        "Pick": 99,
+        "Total Value": 5454080,
+        "Signing Bonus": 857512,
+        "2023 CAP": 964378
+    },
+    {
+        "Round": 3,
+        "Pick": 100,
+        "Total Value": 5304082,
+        "Signing Bonus": 857516,
+        "2023 CAP": 964379
+    },
+    {
+        "Round": 3,
+        "Pick": 101,
+        "Total Value": 5304084,
+        "Signing Bonus": 857516,
+        "2023 CAP": 664379
+    },
+    {
+        "Round": 3,
+        "Pick": 102,
+        "Total Value": 5304084,
+        "Signing Bonus": 857516,
+        "2023 CAP": 964379
+    },
+    {
+        "Round": 4,
+        "Pick": 103,
+        "Total Value": 4682284,
+        "Signing Bonus": 842284,
+        "2023 CAP": 877237
+    },
+    {
+        "Round": 4,
+        "Pick": 104,
+        "Total Value": 4663596,
+        "Signing Bonus": 823596,
+        "2023 CAP": 955899
+    },
+    {
+        "Round": 4,
+        "Pick": 105,
+        "Total Value": 4660924,
+        "Signing Bonus": 820924,
+        "2023 CAP": 955231
+    },
+    {
+        "Round": 4,
+        "Pick": 106,
+        "Total Value": 4655880,
+        "Signing Bonus": 815880,
+        "2023 CAP": 953970
+    },
+    {
+        "Round": 4,
+        "Pick": 107,
+        "Total Value": 4648344,
+        "Signing Bonus": 808344,
+        "2023 CAP": 952086
+    },
+    {
+        "Round": 4,
+        "Pick": 108,
+        "Total Value": 4643984,
+        "Signing Bonus": 803984,
+        "2023 CAP": 950996
+    },
+    {
+        "Round": 4,
+        "Pick": 109,
+        "Total Value": 4641036,
+        "Signing Bonus": 801036,
+        "2023 CAP": 833594
+    },
+    {
+        "Round": 4,
+        "Pick": 110,
+        "Total Value": 4636908,
+        "Signing Bonus": 796908,
+        "2023 CAP": 949227
+    },
+    {
+        "Round": 4,
+        "Pick": 111,
+        "Total Value": 4632332,
+        "Signing Bonus": 792332,
+        "2023 CAP": 881417
+    },
+    {
+        "Round": 4,
+        "Pick": 112,
+        "Total Value": 4626748,
+        "Signing Bonus": 786748,
+        "2023 CAP": 946687
+    },
+    {
+        "Round": 4,
+        "Pick": 113,
+        "Total Value": 4613528,
+        "Signing Bonus": 773528,
+        "2023 CAP": 943382
+    },
+    {
+        "Round": 4,
+        "Pick": 114,
+        "Total Value": 4611736,
+        "Signing Bonus": 771736,
+        "2023 CAP": 842934
+    },
+    {
+        "Round": 4,
+        "Pick": 115,
+        "Total Value": 4608688,
+        "Signing Bonus": 768688,
+        "2023 CAP": 942172
+    },
+    {
+        "Round": 4,
+        "Pick": 116,
+        "Total Value": 4607928,
+        "Signing Bonus": 767928,
+        "2023 CAP": 941982
+    },
+    {
+        "Round": 4,
+        "Pick": 117,
+        "Total Value": 4604112,
+        "Signing Bonus": 764112,
+        "2023 CAP": 941028
+    },
+    {
+        "Round": 4,
+        "Pick": 118,
+        "Total Value": 4594452,
+        "Signing Bonus": 754452,
+        "2023 CAP": 638613
+    },
+    {
+        "Round": 4,
+        "Pick": 119,
+        "Total Value": 4591368,
+        "Signing Bonus": 751368,
+        "2023 CAP": 937842
+    },
+    {
+        "Round": 4,
+        "Pick": 120,
+        "Total Value": 4584320,
+        "Signing Bonus": 744320,
+        "2023 CAP": 852746
+    },
+    {
+        "Round": 4,
+        "Pick": 121,
+        "Total Value": 4576936,
+        "Signing Bonus": 736936,
+        "2023 CAP": 634234
+    },
+    {
+        "Round": 4,
+        "Pick": 122,
+        "Total Value": 4572240,
+        "Signing Bonus": 732240,
+        "2023 CAP": 933060
+    },
+    {
+        "Round": 4,
+        "Pick": 123,
+        "Total Value": 4567508,
+        "Signing Bonus": 727508,
+        "2023 CAP": 931877
+    },
+    {
+        "Round": 4,
+        "Pick": 124,
+        "Total Value": 4560564,
+        "Signing Bonus": 720564,
+        "2023 CAP": 930141
+    },
+    {
+        "Round": 4,
+        "Pick": 125,
+        "Total Value": 4551932,
+        "Signing Bonus": 711932,
+        "2023 CAP": 927983
+    },
+    {
+        "Round": 4,
+        "Pick": 126,
+        "Total Value": 4551932,
+        "Signing Bonus": 711932,
+        "2023 CAP": 927983
+    },
+    {
+        "Round": 4,
+        "Pick": 127,
+        "Total Value": 4544816,
+        "Signing Bonus": 704816,
+        "2023 CAP": 676204
+    },
+    {
+        "Round": 4,
+        "Pick": 128,
+        "Total Value": 4539140,
+        "Signing Bonus": 699140,
+        "2023 CAP": 624783
+    },
+    {
+        "Round": 4,
+        "Pick": 129,
+        "Total Value": 4530756,
+        "Signing Bonus": 690756,
+        "2023 CAP": 847689
+    },
+    {
+        "Round": 4,
+        "Pick": 130,
+        "Total Value": 4527124,
+        "Signing Bonus": 687124,
+        "2023 CAP": 921781
+    },
+    {
+        "Round": 4,
+        "Pick": 131,
+        "Total Value": 4518776,
+        "Signing Bonus": 678776,
+        "2023 CAP": 803027
+    },
+    {
+        "Round": 4,
+        "Pick": 132,
+        "Total Value": 4512920,
+        "Signing Bonus": 672920,
+        "2023 CAP": 918230
+    },
+    {
+        "Round": 4,
+        "Pick": 133,
+        "Total Value": 4503452,
+        "Signing Bonus": 663452,
+        "2023 CAP": 915863
+    },
+    {
+        "Round": 4,
+        "Pick": 134,
+        "Total Value": 4493544,
+        "Signing Bonus": 653544,
+        "2023 CAP": 913386
+    },
+    {
+        "Round": 4,
+        "Pick": 135,
+        "Total Value": 4349380,
+        "Signing Bonus": 509380,
+        "2023 CAP": 877345
+    },
+    {
+        "Round": 5,
+        "Pick": 136,
+        "Total Value": 4205216,
+        "Signing Bonus": 365216,
+        "2023 CAP": 841304
+    },
+    {
+        "Round": 5,
+        "Pick": 137,
+        "Total Value": 4199264,
+        "Signing Bonus": 359264,
+        "2023 CAP": 839816
+    },
+    {
+        "Round": 5,
+        "Pick": 138,
+        "Total Value": 4197660,
+        "Signing Bonus": 357660,
+        "2023 CAP": 750000
+    },
+    {
+        "Round": 5,
+        "Pick": 139,
+        "Total Value": 4190624,
+        "Signing Bonus": 350624,
+        "2023 CAP": 837656
+    },
+    {
+        "Round": 5,
+        "Pick": 140,
+        "Total Value": 4182272,
+        "Signing Bonus": 342272,
+        "2023 CAP": 802234
+    },
+    {
+        "Round": 5,
+        "Pick": 141,
+        "Total Value": 4179772,
+        "Signing Bonus": 339772,
+        "2023 CAP": 834943
+    },
+    {
+        "Round": 5,
+        "Pick": 142,
+        "Total Value": 4177232,
+        "Signing Bonus": 337232,
+        "2023 CAP": 767646
+    },
+    {
+        "Round": 5,
+        "Pick": 143,
+        "Total Value": 4179776,
+        "Signing Bonus": 339776,
+        "2023 CAP": 834944
+    },
+    {
+        "Round": 5,
+        "Pick": 144,
+        "Total Value": 4175540,
+        "Signing Bonus": 335540,
+        "2023 CAP": 833885
+    },
+    {
+        "Round": 5,
+        "Pick": 145,
+        "Total Value": 4169532,
+        "Signing Bonus": 329532,
+        "2023 CAP": 832383
+    },
+    {
+        "Round": 5,
+        "Pick": 146,
+        "Total Value": 4166728,
+        "Signing Bonus": 326728,
+        "2023 CAP": 831682
+    },
+    {
+        "Round": 5,
+        "Pick": 147,
+        "Total Value": 4165372,
+        "Signing Bonus": 325372,
+        "2023 CAP": 797918
+    },
+    {
+        "Round": 5,
+        "Pick": 148,
+        "Total Value": 4164948,
+        "Signing Bonus": 324928,
+        "2023 CAP": 814576
+    },
+    {
+        "Round": 5,
+        "Pick": 149,
+        "Total Value": 4164180,
+        "Signing Bonus": 325372,
+        "2023 CAP": 831045
+    },
+    {
+        "Round": 5,
+        "Pick": 150,
+        "Total Value": 4163948,
+        "Signing Bonus": 323948,
+        "2023 CAP": 530987
+    },
+    {
+        "Round": 5,
+        "Pick": 151,
+        "Total Value": 4172076,
+        "Signing Bonus": 332076,
+        "2023 CAP": 563853
+    },
+    {
+        "Round": 5,
+        "Pick": 152,
+        "Total Value": 4160084,
+        "Signing Bonus": 320084,
+        "2023 CAP": 830021
+    },
+    {
+        "Round": 5,
+        "Pick": 153,
+        "Total Value": 4157324,
+        "Signing Bonus": 317324,
+        "2023 CAP": 829331
+    },
+    {
+        "Round": 5,
+        "Pick": 154,
+        "Total Value": 4156456,
+        "Signing Bonus": 316456,
+        "2023 CAP": 829114
+    },
+    {
+        "Round": 5,
+        "Pick": 155,
+        "Total Value": 4153512,
+        "Signing Bonus": 313512,
+        "2023 CAP": 661714
+    },
+    {
+        "Round": 5,
+        "Pick": 156,
+        "Total Value": 4152140,
+        "Signing Bonus": 312140,
+        "2023 CAP": 828035
+    },
+    {
+        "Round": 5,
+        "Pick": 157,
+        "Total Value": 4149144,
+        "Signing Bonus": 309144,
+        "2023 CAP": 166667
+    },
+    {
+        "Round": 5,
+        "Pick": 158,
+        "Total Value": 4147836,
+        "Signing Bonus": 307836,
+        "2023 CAP": 526959
+    },
+    {
+        "Round": 5,
+        "Pick": 159,
+        "Total Value": 4142548,
+        "Signing Bonus": 302548,
+        "2023 CAP": 825637
+    },
+    {
+        "Round": 5,
+        "Pick": 160,
+        "Total Value": 4141832,
+        "Signing Bonus": 301832,
+        "2023 CAP": 825458
+    },
+    {
+        "Round": 5,
+        "Pick": 161,
+        "Total Value": 4139104,
+        "Signing Bonus": 299104,
+        "2023 CAP": 824776
+    },
+    {
+        "Round": 5,
+        "Pick": 162,
+        "Total Value": 4130592,
+        "Signing Bonus": 290592,
+        "2023 CAP": 822648
+    },
+    {
+        "Round": 5,
+        "Pick": 163,
+        "Total Value": 4126156,
+        "Signing Bonus": 286156,
+        "2023 CAP": 754873
+    },
+    {
+        "Round": 5,
+        "Pick": 164,
+        "Total Value": 4119276,
+        "Signing Bonus": 279276,
+        "2023 CAP": 819819
+    },
+    {
+        "Round": 5,
+        "Pick": 165,
+        "Total Value": 4115884,
+        "Signing Bonus": 275884,
+        "2023 CAP": 818971
+    },
+    {
+        "Round": 5,
+        "Pick": 166,
+        "Total Value": 4111652,
+        "Signing Bonus": 271652,
+        "2023 CAP": 817913
+    },
+    {
+        "Round": 5,
+        "Pick": 167,
+        "Total Value": 4084976,
+        "Signing Bonus": 244976,
+        "2023 CAP": 811244
+    },
+    {
+        "Round": 5,
+        "Pick": 168,
+        "Total Value": 4084976,
+        "Signing Bonus": 244976,
+        "2023 CAP": 811244
+    },
+    {
+        "Round": 5,
+        "Pick": 169,
+        "Total Value": 4084976,
+        "Signing Bonus": 244976,
+        "2023 CAP": 811244
+    },
+    {
+        "Round": 5,
+        "Pick": 170,
+        "Total Value": 4084976,
+        "Signing Bonus": 244976,
+        "2023 CAP": 811244
+    },
+    {
+        "Round": 5,
+        "Pick": 171,
+        "Total Value": 4084976,
+        "Signing Bonus": 244976,
+        "2023 CAP": 811244
+    },
+    {
+        "Round": 5,
+        "Pick": 172,
+        "Total Value": 4084976,
+        "Signing Bonus": 244976,
+        "2023 CAP": 744579
+    },
+    {
+        "Round": 5,
+        "Pick": 173,
+        "Total Value": 4084976,
+        "Signing Bonus": 244976,
+        "2023 CAP": 611246
+    },
+    {
+        "Round": 5,
+        "Pick": 174,
+        "Total Value": 4084976,
+        "Signing Bonus": 244976,
+        "2023 CAP": 811244
+    },
+    {
+        "Round": 5,
+        "Pick": 175,
+        "Total Value": 4084976,
+        "Signing Bonus": 244976,
+        "2023 CAP": 811244
+    },
+    {
+        "Round": 5,
+        "Pick": 176,
+        "Total Value": 4084976,
+        "Signing Bonus": 244976,
+        "2023 CAP": 527911
+    },
+    {
+        "Round": 5,
+        "Pick": 177,
+        "Total Value": 4084977,
+        "Signing Bonus": 244976,
+        "2023 CAP": 811244
+    },
+    {
+        "Round": 6,
+        "Pick": 178,
+        "Total Value": 4058304,
+        "Signing Bonus": 218304,
+        "2023 CAP": 804576
+    },
+    {
+        "Round": 6,
+        "Pick": 179,
+        "Total Value": 4052028,
+        "Signing Bonus": 212028,
+        "2023 CAP": 803007
+    },
+    {
+        "Round": 6,
+        "Pick": 180,
+        "Total Value": 4048612,
+        "Signing Bonus": 208612,
+        "2023 CAP": 802153
+    },
+    {
+        "Round": 6,
+        "Pick": 181,
+        "Total Value": 4044372,
+        "Signing Bonus": 204372,
+        "2023 CAP": 801093
+    },
+    {
+        "Round": 6,
+        "Pick": 182,
+        "Total Value": 4039852,
+        "Signing Bonus": 199852,
+        "2023 CAP": 799963
+    },
+    {
+        "Round": 6,
+        "Pick": 183,
+        "Total Value": 4036220,
+        "Signing Bonus": 196220,
+        "2023 CAP": 799055
+    },
+    {
+        "Round": 6,
+        "Pick": 184,
+        "Total Value": 4036220,
+        "Signing Bonus": 196220,
+        "2023 CAP": 731725
+    },
+    {
+        "Round": 6,
+        "Pick": 185,
+        "Total Value": 4032264,
+        "Signing Bonus": 192264,
+        "2023 CAP": 698066
+    },
+    {
+        "Round": 6,
+        "Pick": 186,
+        "Total Value": 4029800,
+        "Signing Bonus": 189800,
+        "2023 CAP": 797450
+    },
+    {
+        "Round": 6,
+        "Pick": 187,
+        "Total Value": 4027272,
+        "Signing Bonus": 187272,
+        "2023 CAP": 796818
+    },
+    {
+        "Round": 6,
+        "Pick": 188,
+        "Total Value": 4026520,
+        "Signing Bonus": 186520,
+        "2023 CAP": 796630
+    },
+    {
+        "Round": 6,
+        "Pick": 189,
+        "Total Value": 4022465,
+        "Signing Bonus": 182464,
+        "2023 CAP": 795616
+    },
+    {
+        "Round": 6,
+        "Pick": 190,
+        "Total Value": 4019972,
+        "Signing Bonus": 179972,
+        "2023 CAP": 794993
+    },
+    {
+        "Round": 6,
+        "Pick": 191,
+        "Total Value": 4019292,
+        "Signing Bonus": 179292,
+        "2023 CAP": 794823
+    },
+    {
+        "Round": 6,
+        "Pick": 192,
+        "Total Value": 4018456,
+        "Signing Bonus": 178456,
+        "2023 CAP": 794614
+    },
+    {
+        "Round": 6,
+        "Pick": 193,
+        "Total Value": 4017688,
+        "Signing Bonus": 177688,
+        "2023 CAP": 761090
+    },
+    {
+        "Round": 6,
+        "Pick": 194,
+        "Total Value": 4016616,
+        "Signing Bonus": 176616,
+        "2023 CAP": 500004
+    },
+    {
+        "Round": 6,
+        "Pick": 195,
+        "Total Value": 4016364,
+        "Signing Bonus": 176364,
+        "2023 CAP": 794091
+    },
+    {
+        "Round": 6,
+        "Pick": 196,
+        "Total Value": 4016012,
+        "Signing Bonus": 176012,
+        "2023 CAP": 794003
+    },
+    {
+        "Round": 6,
+        "Pick": 197,
+        "Total Value": 4015884,
+        "Signing Bonus": 175884,
+        "2023 CAP": 750000
+    },
+    {
+        "Round": 6,
+        "Pick": 198,
+        "Total Value": 4014804,
+        "Signing Bonus": 174804,
+        "2023 CAP": 677033
+    },
+    {
+        "Round": 6,
+        "Pick": 199,
+        "Total Value": 4013192,
+        "Signing Bonus": 173192,
+        "2023 CAP": 793298
+    },
+    {
+        "Round": 6,
+        "Pick": 200,
+        "Total Value": 4012296,
+        "Signing Bonus": 172296,
+        "2023 CAP": 793074
+    },
+    {
+        "Round": 6,
+        "Pick": 201,
+        "Total Value": 4009972,
+        "Signing Bonus": 169972,
+        "2023 CAP": 625829
+    },
+    {
+        "Round": 6,
+        "Pick": 202,
+        "Total Value": 4007592,
+        "Signing Bonus": 167592,
+        "2023 CAP": 575233
+    },
+    {
+        "Round": 6,
+        "Pick": 203,
+        "Total Value": 4005116,
+        "Signing Bonus": 165116,
+        "2023 CAP": 791279
+    },
+    {
+        "Round": 6,
+        "Pick": 204,
+        "Total Value": 4005112,
+        "Signing Bonus": 165112,
+        "2023 CAP": 674611
+    },
+    {
+        "Round": 6,
+        "Pick": 205,
+        "Total Value": 4003704,
+        "Signing Bonus": 163704,
+        "2023 CAP": 790926
+    },
+    {
+        "Round": 6,
+        "Pick": 206,
+        "Total Value": 3999384,
+        "Signing Bonus": 159384,
+        "2023 CAP": 789846
+    },
+    {
+        "Round": 6,
+        "Pick": 207,
+        "Total Value": 3996776,
+        "Signing Bonus": 156776,
+        "2023 CAP": 789194
+    },
+    {
+        "Round": 6,
+        "Pick": 208,
+        "Total Value": 3994212,
+        "Signing Bonus": 154212,
+        "2023 CAP": 788553
+    },
+    {
+        "Round": 6,
+        "Pick": 209,
+        "Total Value": 3989520,
+        "Signing Bonus": 149520,
+        "2023 CAP": 787380
+    },
+    {
+        "Round": 6,
+        "Pick": 210,
+        "Total Value": 3973332,
+        "Signing Bonus": 133332,
+        "2023 CAP": 783333
+    },
+    {
+        "Round": 6,
+        "Pick": 211,
+        "Total Value": 3973332,
+        "Signing Bonus": 133332,
+        "2023 CAP": 483333
+    },
+    {
+        "Round": 6,
+        "Pick": 212,
+        "Total Value": 3973336,
+        "Signing Bonus": 133336,
+        "2023 CAP": 766673
+    },
+    {
+        "Round": 6,
+        "Pick": 213,
+        "Total Value": 3973336,
+        "Signing Bonus": 133336,
+        "2023 CAP": 766673
+    },
+    {
+        "Round": 6,
+        "Pick": 214,
+        "Total Value": 3973336,
+        "Signing Bonus": 133336,
+        "2023 CAP": 500004
+    },
+    {
+        "Round": 6,
+        "Pick": 215,
+        "Total Value": 3973336,
+        "Signing Bonus": 133336,
+        "2023 CAP": 783334
+    },
+    {
+        "Round": 6,
+        "Pick": 216,
+        "Total Value": 3973336,
+        "Signing Bonus": 133336,
+        "2023 CAP": 783334
+    },
+    {
+        "Round": 6,
+        "Pick": 217,
+        "Total Value": 3973336,
+        "Signing Bonus": 133336,
+        "2023 CAP": 783334
+    },
+    {
+        "Round": 7,
+        "Pick": 218,
+        "Total Value": 3957140,
+        "Signing Bonus": 117140,
+        "2023 CAP": 779285
+    },
+    {
+        "Round": 7,
+        "Pick": 219,
+        "Total Value": 3956760,
+        "Signing Bonus": 116760,
+        "2023 CAP": 779190
+    },
+    {
+        "Round": 7,
+        "Pick": 220,
+        "Total Value": 3956760,
+        "Signing Bonus": 116760,
+        "2023 CAP": 779190
+    },
+    {
+        "Round": 7,
+        "Pick": 221,
+        "Total Value": 3953480,
+        "Signing Bonus": 113480,
+        "2023 CAP": 778370
+    },
+    {
+        "Round": 7,
+        "Pick": 222,
+        "Total Value": 3950404,
+        "Signing Bonus": 110404,
+        "2023 CAP": 777601
+    },
+    {
+        "Round": 7,
+        "Pick": 223,
+        "Total Value": 3948003,
+        "Signing Bonus": 108004,
+        "2023 CAP": 777001
+    },
+    {
+        "Round": 7,
+        "Pick": 224,
+        "Total Value": 3946300,
+        "Signing Bonus": 106300,
+        "2023 CAP": 776575
+    },
+    {
+        "Round": 7,
+        "Pick": 225,
+        "Total Value": 3945828,
+        "Signing Bonus": 105828,
+        "2023 CAP": 776457
+    },
+    {
+        "Round": 7,
+        "Pick": 226,
+        "Total Value": 3945488,
+        "Signing Bonus": 105488,
+        "2023 CAP": 476372
+    },
+    {
+        "Round": 7,
+        "Pick": 227,
+        "Total Value": 3944764,
+        "Signing Bonus": 104764,
+        "2023 CAP": 776191
+    },
+    {
+        "Round": 7,
+        "Pick": 228,
+        "Total Value": 3942696,
+        "Signing Bonus": 102696,
+        "2023 CAP": 775674
+    },
+    {
+        "Round": 7,
+        "Pick": 229,
+        "Total Value": 3942112,
+        "Signing Bonus": 102112,
+        "2023 CAP": 475528
+    },
+    {
+        "Round": 7,
+        "Pick": 230,
+        "Total Value": 3942100,
+        "Signing Bonus": 102100,
+        "2023 CAP": 750000
+    },
+    {
+        "Round": 7,
+        "Pick": 231,
+        "Total Value": 3940704,
+        "Signing Bonus": 100704,
+        "2023 CAP": 775176
+    },
+    {
+        "Round": 7,
+        "Pick": 232,
+        "Total Value": 3940704,
+        "Signing Bonus": 100704,
+        "2023 CAP": 775176
+    },
+    {
+        "Round": 7,
+        "Pick": 233,
+        "Total Value": 3940272,
+        "Signing Bonus": 100272,
+        "2023 CAP": 775068
+    },
+    {
+        "Round": 7,
+        "Pick": 234,
+        "Total Value": 3938032,
+        "Signing Bonus": 98032,
+        "2023 CAP": 607844
+    },
+    {
+        "Round": 7,
+        "Pick": 235,
+        "Total Value": 3936336,
+        "Signing Bonus": 96336,
+        "2023 CAP": 474084
+    },
+    {
+        "Round": 7,
+        "Pick": 236,
+        "Total Value": 3934820,
+        "Signing Bonus": 94820,
+        "2023 CAP": 473705
+    },
+    {
+        "Round": 7,
+        "Pick": 237,
+        "Total Value": 3930852,
+        "Signing Bonus": 90852,
+        "2023 CAP": 622716
+    },
+    {
+        "Round": 7,
+        "Pick": 238,
+        "Total Value": 3927092,
+        "Signing Bonus": 87092,
+        "2023 CAP": 750000
+    },
+    {
+        "Round": 7,
+        "Pick": 239,
+        "Total Value": 3926224,
+        "Signing Bonus": 86224,
+        "2023 CAP": 771556
+    },
+    {
+        "Round": 7,
+        "Pick": 240,
+        "Total Value": 3925240,
+        "Signing Bonus": 85240,
+        "2023 CAP": 771310
+    },
+    {
+        "Round": 7,
+        "Pick": 241,
+        "Total Value": 3924436,
+        "Signing Bonus": 84436,
+        "2023 CAP": 471109
+    },
+    {
+        "Round": 7,
+        "Pick": 242,
+        "Total Value": 3923764,
+        "Signing Bonus": 83764,
+        "2023 CAP": 770941
+    },
+    {
+        "Round": 7,
+        "Pick": 243,
+        "Total Value": 3923768,
+        "Signing Bonus": 83768,
+        "2023 CAP": 770942
+    },
+    {
+        "Round": 7,
+        "Pick": 244,
+        "Total Value": 3922360,
+        "Signing Bonus": 82360,
+        "2023 CAP": 770590
+    },
+    {
+        "Round": 7,
+        "Pick": 245,
+        "Total Value": 3921684,
+        "Signing Bonus": 81684,
+        "2023 CAP": 470421
+    },
+    {
+        "Round": 7,
+        "Pick": 246,
+        "Total Value": 3920652,
+        "Signing Bonus": 80652,
+        "2023 CAP": 770163
+    },
+    {
+        "Round": 7,
+        "Pick": 247,
+        "Total Value": 3919900,
+        "Signing Bonus": 79900,
+        "2023 CAP": 769975
+    },
+    {
+        "Round": 7,
+        "Pick": 248,
+        "Total Value": 3918820,
+        "Signing Bonus": 78820,
+        "2023 CAP": 769705
+    },
+    {
+        "Round": 7,
+        "Pick": 249,
+        "Total Value": 3917784,
+        "Signing Bonus": 77784,
+        "2023 CAP": 769446
+    },
+    {
+        "Round": 7,
+        "Pick": 250,
+        "Total Value": 3917776,
+        "Signing Bonus": 77776,
+        "2023 CAP": 769444
+    },
+    {
+        "Round": 7,
+        "Pick": 251,
+        "Total Value": 3917776,
+        "Signing Bonus": 77776,
+        "2023 CAP": 769444
+    },
+    {
+        "Round": 7,
+        "Pick": 252,
+        "Total Value": 3917776,
+        "Signing Bonus": 77776,
+        "2023 CAP": 750000
+    },
+    {
+        "Round": 7,
+        "Pick": 253,
+        "Total Value": 3917776,
+        "Signing Bonus": 77776,
+        "2023 CAP": 769444
+    },
+    {
+        "Round": 7,
+        "Pick": 254,
+        "Total Value": 3917776,
+        "Signing Bonus": 77776,
+        "2023 CAP": 769444
+    },
+    {
+        "Round": 7,
+        "Pick": 255,
+        "Total Value": 3917776,
+        "Signing Bonus": 77776,
+        "2023 CAP": 769444
+    },
+    {
+        "Round": 7,
+        "Pick": 256,
+        "Total Value": 3917776,
+        "Signing Bonus": 77776,
+        "2023 CAP": 769444
+    },
+    {
+        "Round": 7,
+        "Pick": 257,
+        "Total Value": 3917776,
+        "Signing Bonus": 77776,
+        "2023 CAP": 769444
+    },
+    {
+        "Round": 7,
+        "Pick": 258,
+        "Total Value": 3917776,
+        "Signing Bonus": 77776,
+        "2023 CAP": 769444
+    },
+    {
+        "Round": 7,
+        "Pick": 259,
+        "Total Value": 3917776,
+        "Signing Bonus": 77776,
+        "2023 CAP": 769444
+    }
+]

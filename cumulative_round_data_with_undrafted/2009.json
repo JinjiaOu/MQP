@@ -1,0 +1,58 @@
+{
+    "Year": "2009",
+    "Type": "Total AV and Games Played per Round with Percentages",
+    "Round Data": {
+        "1": {
+            "total_av": 1254.0,
+            "total_games": 3416.0,
+            "av_percentage": 24.71422940480883,
+            "games_percentage": 16.566440349175558
+        },
+        "2": {
+            "total_av": 849.0,
+            "total_games": 2679.0,
+            "av_percentage": 16.732361056365786,
+            "games_percentage": 12.992240543161978
+        },
+        "3": {
+            "total_av": 637.0,
+            "total_games": 2435.0,
+            "av_percentage": 12.554197871501774,
+            "games_percentage": 11.808923375363726
+        },
+        "4": {
+            "total_av": 391.0,
+            "total_games": 1693.0,
+            "av_percentage": 7.70595191170674,
+            "games_percentage": 8.21047526673133
+        },
+        "5": {
+            "total_av": 191.0,
+            "total_games": 1312.0,
+            "av_percentage": 3.764288529759559,
+            "games_percentage": 6.362754607177498
+        },
+        "6": {
+            "total_av": 224.0,
+            "total_games": 1514.0,
+            "av_percentage": 4.414662987780844,
+            "games_percentage": 7.342386032977692
+        },
+        "7": {
+            "total_av": 432.0,
+            "total_games": 2234.0,
+            "av_percentage": 8.513992905005912,
+            "games_percentage": 10.834141610087295
+        },
+        "Undrafted Percentages": {
+            "games_percentage": 25.882638215324928,
+            "av_percentage": 21.600315333070554
+        }
+    },
+    "Total Games Played for the Year": 20620.0,
+    "Total AV for the Year": 5074.0,
+    "Total Games Played by Drafted Players": 15283.0,
+    "Total AV for Drafted Players": 3978.0,
+    "Total Games Played by Undrafted Players": 5337,
+    "Total AV for Undrafted Players": 1096
+}

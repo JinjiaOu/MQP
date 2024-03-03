@@ -1,0 +1,55 @@
+{
+    "Type": "Cumulative Round Data with Percentages",
+    "Cumulative Round Data": {
+        "1": {
+            "total_av": 27326.0,
+            "total_games": 69498.0,
+            "av_percentage": 24.11465181746781,
+            "games_percentage": 14.795307942860791
+        },
+        "2": {
+            "total_av": 17836.0,
+            "total_games": 56696.0,
+            "av_percentage": 15.7399154584043,
+            "games_percentage": 12.069912502927213
+        },
+        "3": {
+            "total_av": 13254.0,
+            "total_games": 51306.0,
+            "av_percentage": 11.696391538780588,
+            "games_percentage": 10.922444808719902
+        },
+        "4": {
+            "total_av": 10605.0,
+            "total_games": 46775.0,
+            "av_percentage": 9.358701695244315,
+            "games_percentage": 9.957848125518916
+        },
+        "5": {
+            "total_av": 7633.0,
+            "total_games": 38273.0,
+            "av_percentage": 6.735970772258355,
+            "games_percentage": 8.147872181891724
+        },
+        "6": {
+            "total_av": 5947.0,
+            "total_games": 33315.0,
+            "av_percentage": 5.248109286338325,
+            "games_percentage": 7.092372213824963
+        },
+        "7": {
+            "total_av": 5232.0,
+            "total_games": 29904.0,
+            "av_percentage": 4.617135999011622,
+            "games_percentage": 6.366210376173546
+        },
+        "Undrafted": {
+            "total_av": 25484.0,
+            "total_games": 143963,
+            "av_percentage": 22.489123432494683,
+            "games_percentage": 30.64803184808294
+        }
+    },
+    "Overall Total AV": 113317.0,
+    "Overall Total Games Played": 469730.0
+}

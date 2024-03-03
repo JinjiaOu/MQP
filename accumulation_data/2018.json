@@ -1,0 +1,34 @@
+{
+    "Year": "2018",
+    "Type": "Total AV and Games Played per Round",
+    "Data": {
+        "1": {
+            "total_av": 1012.0,
+            "total_games": 2290.0
+        },
+        "2": {
+            "total_av": 638.0,
+            "total_games": 2016.0
+        },
+        "3": {
+            "total_av": 631.0,
+            "total_games": 2408.0
+        },
+        "4": {
+            "total_av": 369.0,
+            "total_games": 1934.0
+        },
+        "5": {
+            "total_av": 346.0,
+            "total_games": 1946.0
+        },
+        "6": {
+            "total_av": 251.0,
+            "total_games": 1503.0
+        },
+        "7": {
+            "total_av": 175.0,
+            "total_games": 1186.0
+        }
+    }
+}

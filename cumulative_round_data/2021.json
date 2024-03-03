@@ -1,0 +1,50 @@
+{
+    "Year": "2021",
+    "Type": "Total AV and Games Played per Round with Percentages",
+    "Round Data": {
+        "1": {
+            "total_av": 418.0,
+            "total_games": 1022.0,
+            "av_percentage": 32.25308641975309,
+            "games_percentage": 15.904139433551197
+        },
+        "2": {
+            "total_av": 242.0,
+            "total_games": 1004.0,
+            "av_percentage": 18.67283950617284,
+            "games_percentage": 15.624027388733271
+        },
+        "3": {
+            "total_av": 207.0,
+            "total_games": 1175.0,
+            "av_percentage": 15.972222222222221,
+            "games_percentage": 18.28509181450358
+        },
+        "4": {
+            "total_av": 155.0,
+            "total_games": 946.0,
+            "av_percentage": 11.959876543209877,
+            "games_percentage": 14.721444133208838
+        },
+        "5": {
+            "total_av": 127.0,
+            "total_games": 973.0,
+            "av_percentage": 9.799382716049383,
+            "games_percentage": 15.14161220043573
+        },
+        "6": {
+            "total_av": 107.0,
+            "total_games": 840.0,
+            "av_percentage": 8.256172839506174,
+            "games_percentage": 13.071895424836603
+        },
+        "7": {
+            "total_av": 40.0,
+            "total_games": 466.0,
+            "av_percentage": 3.0864197530864197,
+            "games_percentage": 7.251789604730781
+        }
+    },
+    "Total Games Played for the Year": 6426.0,
+    "Total AV for the Year": 1296.0
+}

@@ -1,0 +1,42 @@
+{
+    "Year": "2016",
+    "Type": "Total AV and Games Played per Round with Percentages",
+    "Data": {
+        "1": {
+            "total_av": 990.0,
+            "total_games": 2499.0,
+            "games_percentage": 16.950417147120667
+        },
+        "2": {
+            "total_av": 844.0,
+            "total_games": 2549.0,
+            "games_percentage": 17.2895611476633
+        },
+        "3": {
+            "total_av": 668.0,
+            "total_games": 2409.0,
+            "games_percentage": 16.339957946143933
+        },
+        "4": {
+            "total_av": 580.0,
+            "total_games": 2532.0,
+            "games_percentage": 17.174252187478803
+        },
+        "5": {
+            "total_av": 502.0,
+            "total_games": 1856.0,
+            "games_percentage": 12.58902530014244
+        },
+        "6": {
+            "total_av": 260.0,
+            "total_games": 1826.0,
+            "games_percentage": 12.385538899816863
+        },
+        "7": {
+            "total_av": 149.0,
+            "total_games": 1072.0,
+            "games_percentage": 7.271247371633996
+        }
+    },
+    "Total Games Played for the Year": 14743.0
+}

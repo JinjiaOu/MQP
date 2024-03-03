@@ -1,0 +1,1839 @@
+{
+    "Type": "Cumulative Draft Pick Data",
+    "Cumulative Draft Pick Data": {
+        "1": {
+            "total_av": 1445.0,
+            "total_games": 2492.0,
+            "count": 24,
+            "average_av": 60.208333333333336,
+            "average_games": 103.83333333333333
+        },
+        "2": {
+            "total_av": 1070.0,
+            "total_games": 2267.0,
+            "count": 24,
+            "average_av": 44.583333333333336,
+            "average_games": 94.45833333333333
+        },
+        "3": {
+            "total_av": 1025.0,
+            "total_games": 2459.0,
+            "count": 24,
+            "average_av": 42.708333333333336,
+            "average_games": 102.45833333333333
+        },
+        "4": {
+            "total_av": 1061.0,
+            "total_games": 2373.0,
+            "count": 24,
+            "average_av": 44.208333333333336,
+            "average_games": 98.875
+        },
+        "5": {
+            "total_av": 1100.0,
+            "total_games": 2341.0,
+            "count": 24,
+            "average_av": 45.833333333333336,
+            "average_games": 97.54166666666667
+        },
+        "6": {
+            "total_av": 961.0,
+            "total_games": 2329.0,
+            "count": 24,
+            "average_av": 40.041666666666664,
+            "average_games": 97.04166666666667
+        },
+        "7": {
+            "total_av": 925.0,
+            "total_games": 2337.0,
+            "count": 24,
+            "average_av": 38.541666666666664,
+            "average_games": 97.375
+        },
+        "8": {
+            "total_av": 847.0,
+            "total_games": 2106.0,
+            "count": 24,
+            "average_av": 35.291666666666664,
+            "average_games": 87.75
+        },
+        "9": {
+            "total_av": 987.0,
+            "total_games": 2312.0,
+            "count": 24,
+            "average_av": 41.125,
+            "average_games": 96.33333333333333
+        },
+        "10": {
+            "total_av": 803.0,
+            "total_games": 2092.0,
+            "count": 24,
+            "average_av": 33.458333333333336,
+            "average_games": 87.16666666666667
+        },
+        "11": {
+            "total_av": 1094.0,
+            "total_games": 2377.0,
+            "count": 24,
+            "average_av": 45.583333333333336,
+            "average_games": 99.04166666666667
+        },
+        "12": {
+            "total_av": 923.0,
+            "total_games": 2117.0,
+            "count": 24,
+            "average_av": 38.458333333333336,
+            "average_games": 88.20833333333333
+        },
+        "13": {
+            "total_av": 1044.0,
+            "total_games": 2455.0,
+            "count": 24,
+            "average_av": 43.5,
+            "average_games": 102.29166666666667
+        },
+        "14": {
+            "total_av": 910.0,
+            "total_games": 2411.0,
+            "count": 24,
+            "average_av": 37.916666666666664,
+            "average_games": 100.45833333333333
+        },
+        "15": {
+            "total_av": 787.0,
+            "total_games": 2111.0,
+            "count": 24,
+            "average_av": 32.791666666666664,
+            "average_games": 87.95833333333333
+        },
+        "16": {
+            "total_av": 804.0,
+            "total_games": 2095.0,
+            "count": 24,
+            "average_av": 33.5,
+            "average_games": 87.29166666666667
+        },
+        "17": {
+            "total_av": 861.0,
+            "total_games": 2377.0,
+            "count": 24,
+            "average_av": 35.875,
+            "average_games": 99.04166666666667
+        },
+        "18": {
+            "total_av": 874.0,
+            "total_games": 2346.0,
+            "count": 24,
+            "average_av": 36.416666666666664,
+            "average_games": 97.75
+        },
+        "19": {
+            "total_av": 742.0,
+            "total_games": 2045.0,
+            "count": 24,
+            "average_av": 30.916666666666668,
+            "average_games": 85.20833333333333
+        },
+        "20": {
+            "total_av": 732.0,
+            "total_games": 2152.0,
+            "count": 24,
+            "average_av": 30.5,
+            "average_games": 89.66666666666667
+        },
+        "21": {
+            "total_av": 751.0,
+            "total_games": 2144.0,
+            "count": 24,
+            "average_av": 31.291666666666668,
+            "average_games": 89.33333333333333
+        },
+        "22": {
+            "total_av": 613.0,
+            "total_games": 1729.0,
+            "count": 24,
+            "average_av": 25.541666666666668,
+            "average_games": 72.04166666666667
+        },
+        "23": {
+            "total_av": 622.0,
+            "total_games": 1774.0,
+            "count": 24,
+            "average_av": 25.916666666666668,
+            "average_games": 73.91666666666667
+        },
+        "24": {
+            "total_av": 1036.0,
+            "total_games": 2397.0,
+            "count": 24,
+            "average_av": 43.166666666666664,
+            "average_games": 99.875
+        },
+        "25": {
+            "total_av": 719.0,
+            "total_games": 1971.0,
+            "count": 24,
+            "average_av": 29.958333333333332,
+            "average_games": 82.125
+        },
+        "26": {
+            "total_av": 529.0,
+            "total_games": 1813.0,
+            "count": 24,
+            "average_av": 22.041666666666668,
+            "average_games": 75.54166666666667
+        },
+        "27": {
+            "total_av": 830.0,
+            "total_games": 2412.0,
+            "count": 24,
+            "average_av": 34.583333333333336,
+            "average_games": 100.5
+        },
+        "28": {
+            "total_av": 616.0,
+            "total_games": 2129.0,
+            "count": 24,
+            "average_av": 25.666666666666668,
+            "average_games": 88.70833333333333
+        },
+        "29": {
+            "total_av": 609.0,
+            "total_games": 2019.0,
+            "count": 24,
+            "average_av": 25.375,
+            "average_games": 84.125
+        },
+        "30": {
+            "total_av": 717.0,
+            "total_games": 1881.0,
+            "count": 24,
+            "average_av": 29.875,
+            "average_games": 78.375
+        },
+        "31": {
+            "total_av": 701.0,
+            "total_games": 2091.0,
+            "count": 24,
+            "average_av": 29.208333333333332,
+            "average_games": 87.125
+        },
+        "32": {
+            "total_av": 835.0,
+            "total_games": 2135.0,
+            "count": 24,
+            "average_av": 34.791666666666664,
+            "average_games": 88.95833333333333
+        },
+        "33": {
+            "total_av": 690.0,
+            "total_games": 2144.0,
+            "count": 24,
+            "average_av": 28.75,
+            "average_games": 89.33333333333333
+        },
+        "34": {
+            "total_av": 732.0,
+            "total_games": 2104.0,
+            "count": 24,
+            "average_av": 30.5,
+            "average_games": 87.66666666666667
+        },
+        "35": {
+            "total_av": 754.0,
+            "total_games": 2182.0,
+            "count": 24,
+            "average_av": 31.416666666666668,
+            "average_games": 90.91666666666667
+        },
+        "36": {
+            "total_av": 782.0,
+            "total_games": 1942.0,
+            "count": 24,
+            "average_av": 32.583333333333336,
+            "average_games": 80.91666666666667
+        },
+        "37": {
+            "total_av": 704.0,
+            "total_games": 1949.0,
+            "count": 24,
+            "average_av": 29.333333333333332,
+            "average_games": 81.20833333333333
+        },
+        "38": {
+            "total_av": 507.0,
+            "total_games": 1690.0,
+            "count": 24,
+            "average_av": 21.125,
+            "average_games": 70.41666666666667
+        },
+        "39": {
+            "total_av": 635.0,
+            "total_games": 1849.0,
+            "count": 24,
+            "average_av": 26.458333333333332,
+            "average_games": 77.04166666666667
+        },
+        "40": {
+            "total_av": 456.0,
+            "total_games": 1587.0,
+            "count": 24,
+            "average_av": 19.0,
+            "average_games": 66.125
+        },
+        "41": {
+            "total_av": 557.0,
+            "total_games": 1723.0,
+            "count": 24,
+            "average_av": 23.208333333333332,
+            "average_games": 71.79166666666667
+        },
+        "42": {
+            "total_av": 597.0,
+            "total_games": 1867.0,
+            "count": 24,
+            "average_av": 24.875,
+            "average_games": 77.79166666666667
+        },
+        "43": {
+            "total_av": 458.0,
+            "total_games": 1601.0,
+            "count": 24,
+            "average_av": 19.083333333333332,
+            "average_games": 66.70833333333333
+        },
+        "44": {
+            "total_av": 543.0,
+            "total_games": 1518.0,
+            "count": 24,
+            "average_av": 22.625,
+            "average_games": 63.25
+        },
+        "45": {
+            "total_av": 505.0,
+            "total_games": 1620.0,
+            "count": 24,
+            "average_av": 21.041666666666668,
+            "average_games": 67.5
+        },
+        "46": {
+            "total_av": 595.0,
+            "total_games": 1834.0,
+            "count": 24,
+            "average_av": 24.791666666666668,
+            "average_games": 76.41666666666667
+        },
+        "47": {
+            "total_av": 674.0,
+            "total_games": 2146.0,
+            "count": 24,
+            "average_av": 28.083333333333332,
+            "average_games": 89.41666666666667
+        },
+        "48": {
+            "total_av": 571.0,
+            "total_games": 1830.0,
+            "count": 24,
+            "average_av": 23.791666666666668,
+            "average_games": 76.25
+        },
+        "49": {
+            "total_av": 447.0,
+            "total_games": 1552.0,
+            "count": 23,
+            "average_av": 19.434782608695652,
+            "average_games": 67.47826086956522
+        },
+        "50": {
+            "total_av": 578.0,
+            "total_games": 1889.0,
+            "count": 24,
+            "average_av": 24.083333333333332,
+            "average_games": 78.70833333333333
+        },
+        "51": {
+            "total_av": 452.0,
+            "total_games": 1395.0,
+            "count": 22,
+            "average_av": 20.545454545454547,
+            "average_games": 63.40909090909091
+        },
+        "52": {
+            "total_av": 499.0,
+            "total_games": 1693.0,
+            "count": 24,
+            "average_av": 20.791666666666668,
+            "average_games": 70.54166666666667
+        },
+        "53": {
+            "total_av": 494.0,
+            "total_games": 1627.0,
+            "count": 24,
+            "average_av": 20.583333333333332,
+            "average_games": 67.79166666666667
+        },
+        "54": {
+            "total_av": 443.0,
+            "total_games": 1827.0,
+            "count": 24,
+            "average_av": 18.458333333333332,
+            "average_games": 76.125
+        },
+        "55": {
+            "total_av": 660.0,
+            "total_games": 2200.0,
+            "count": 24,
+            "average_av": 27.5,
+            "average_games": 91.66666666666667
+        },
+        "57": {
+            "total_av": 468.0,
+            "total_games": 1697.0,
+            "count": 24,
+            "average_av": 19.5,
+            "average_games": 70.70833333333333
+        },
+        "58": {
+            "total_av": 490.0,
+            "total_games": 1558.0,
+            "count": 24,
+            "average_av": 20.416666666666668,
+            "average_games": 64.91666666666667
+        },
+        "59": {
+            "total_av": 470.0,
+            "total_games": 1665.0,
+            "count": 24,
+            "average_av": 19.583333333333332,
+            "average_games": 69.375
+        },
+        "60": {
+            "total_av": 529.0,
+            "total_games": 1722.0,
+            "count": 24,
+            "average_av": 22.041666666666668,
+            "average_games": 71.75
+        },
+        "61": {
+            "total_av": 587.0,
+            "total_games": 2039.0,
+            "count": 24,
+            "average_av": 24.458333333333332,
+            "average_games": 84.95833333333333
+        },
+        "62": {
+            "total_av": 493.0,
+            "total_games": 1586.0,
+            "count": 22,
+            "average_av": 22.40909090909091,
+            "average_games": 72.0909090909091
+        },
+        "63": {
+            "total_av": 569.0,
+            "total_games": 1715.0,
+            "count": 23,
+            "average_av": 24.73913043478261,
+            "average_games": 74.56521739130434
+        },
+        "64": {
+            "total_av": 567.0,
+            "total_games": 1763.0,
+            "count": 24,
+            "average_av": 23.625,
+            "average_games": 73.45833333333333
+        },
+        "66": {
+            "total_av": 491.0,
+            "total_games": 1651.0,
+            "count": 24,
+            "average_av": 20.458333333333332,
+            "average_games": 68.79166666666667
+        },
+        "67": {
+            "total_av": 364.0,
+            "total_games": 1310.0,
+            "count": 23,
+            "average_av": 15.826086956521738,
+            "average_games": 56.95652173913044
+        },
+        "68": {
+            "total_av": 332.0,
+            "total_games": 1480.0,
+            "count": 23,
+            "average_av": 14.434782608695652,
+            "average_games": 64.34782608695652
+        },
+        "69": {
+            "total_av": 498.0,
+            "total_games": 1739.0,
+            "count": 24,
+            "average_av": 20.75,
+            "average_games": 72.45833333333333
+        },
+        "70": {
+            "total_av": 447.0,
+            "total_games": 1685.0,
+            "count": 24,
+            "average_av": 18.625,
+            "average_games": 70.20833333333333
+        },
+        "71": {
+            "total_av": 544.0,
+            "total_games": 1899.0,
+            "count": 24,
+            "average_av": 22.666666666666668,
+            "average_games": 79.125
+        },
+        "72": {
+            "total_av": 335.0,
+            "total_games": 1378.0,
+            "count": 23,
+            "average_av": 14.565217391304348,
+            "average_games": 59.91304347826087
+        },
+        "73": {
+            "total_av": 478.0,
+            "total_games": 1643.0,
+            "count": 24,
+            "average_av": 19.916666666666668,
+            "average_games": 68.45833333333333
+        },
+        "74": {
+            "total_av": 349.0,
+            "total_games": 1252.0,
+            "count": 24,
+            "average_av": 14.541666666666666,
+            "average_games": 52.166666666666664
+        },
+        "75": {
+            "total_av": 445.0,
+            "total_games": 1303.0,
+            "count": 23,
+            "average_av": 19.347826086956523,
+            "average_games": 56.65217391304348
+        },
+        "76": {
+            "total_av": 386.0,
+            "total_games": 1358.0,
+            "count": 23,
+            "average_av": 16.782608695652176,
+            "average_games": 59.04347826086956
+        },
+        "77": {
+            "total_av": 382.0,
+            "total_games": 1429.0,
+            "count": 24,
+            "average_av": 15.916666666666666,
+            "average_games": 59.541666666666664
+        },
+        "78": {
+            "total_av": 512.0,
+            "total_games": 1655.0,
+            "count": 24,
+            "average_av": 21.333333333333332,
+            "average_games": 68.95833333333333
+        },
+        "79": {
+            "total_av": 320.0,
+            "total_games": 1401.0,
+            "count": 23,
+            "average_av": 13.91304347826087,
+            "average_games": 60.91304347826087
+        },
+        "80": {
+            "total_av": 241.0,
+            "total_games": 903.0,
+            "count": 24,
+            "average_av": 10.041666666666666,
+            "average_games": 37.625
+        },
+        "81": {
+            "total_av": 505.0,
+            "total_games": 1891.0,
+            "count": 24,
+            "average_av": 21.041666666666668,
+            "average_games": 78.79166666666667
+        },
+        "82": {
+            "total_av": 243.0,
+            "total_games": 1331.0,
+            "count": 23,
+            "average_av": 10.565217391304348,
+            "average_games": 57.869565217391305
+        },
+        "83": {
+            "total_av": 475.0,
+            "total_games": 1766.0,
+            "count": 24,
+            "average_av": 19.791666666666668,
+            "average_games": 73.58333333333333
+        },
+        "84": {
+            "total_av": 490.0,
+            "total_games": 1781.0,
+            "count": 24,
+            "average_av": 20.416666666666668,
+            "average_games": 74.20833333333333
+        },
+        "85": {
+            "total_av": 231.0,
+            "total_games": 1215.0,
+            "count": 22,
+            "average_av": 10.5,
+            "average_games": 55.22727272727273
+        },
+        "86": {
+            "total_av": 372.0,
+            "total_games": 1206.0,
+            "count": 23,
+            "average_av": 16.17391304347826,
+            "average_games": 52.43478260869565
+        },
+        "87": {
+            "total_av": 214.0,
+            "total_games": 1094.0,
+            "count": 24,
+            "average_av": 8.916666666666666,
+            "average_games": 45.583333333333336
+        },
+        "88": {
+            "total_av": 352.0,
+            "total_games": 1597.0,
+            "count": 24,
+            "average_av": 14.666666666666666,
+            "average_games": 66.54166666666667
+        },
+        "89": {
+            "total_av": 349.0,
+            "total_games": 1361.0,
+            "count": 23,
+            "average_av": 15.173913043478262,
+            "average_games": 59.17391304347826
+        },
+        "90": {
+            "total_av": 256.0,
+            "total_games": 1301.0,
+            "count": 23,
+            "average_av": 11.130434782608695,
+            "average_games": 56.56521739130435
+        },
+        "91": {
+            "total_av": 489.0,
+            "total_games": 1733.0,
+            "count": 23,
+            "average_av": 21.26086956521739,
+            "average_games": 75.34782608695652
+        },
+        "92": {
+            "total_av": 484.0,
+            "total_games": 1650.0,
+            "count": 23,
+            "average_av": 21.043478260869566,
+            "average_games": 71.73913043478261
+        },
+        "93": {
+            "total_av": 264.0,
+            "total_games": 1272.0,
+            "count": 24,
+            "average_av": 11.0,
+            "average_games": 53.0
+        },
+        "94": {
+            "total_av": 367.0,
+            "total_games": 1495.0,
+            "count": 22,
+            "average_av": 16.681818181818183,
+            "average_games": 67.95454545454545
+        },
+        "95": {
+            "total_av": 298.0,
+            "total_games": 1335.0,
+            "count": 22,
+            "average_av": 13.545454545454545,
+            "average_games": 60.68181818181818
+        },
+        "96": {
+            "total_av": 257.0,
+            "total_games": 1255.0,
+            "count": 24,
+            "average_av": 10.708333333333334,
+            "average_games": 52.291666666666664
+        },
+        "97": {
+            "total_av": 271.0,
+            "total_games": 1303.0,
+            "count": 24,
+            "average_av": 11.291666666666666,
+            "average_games": 54.291666666666664
+        },
+        "98": {
+            "total_av": 401.0,
+            "total_games": 1476.0,
+            "count": 23,
+            "average_av": 17.434782608695652,
+            "average_games": 64.17391304347827
+        },
+        "99": {
+            "total_av": 355.0,
+            "total_games": 1604.0,
+            "count": 24,
+            "average_av": 14.791666666666666,
+            "average_games": 66.83333333333333
+        },
+        "100": {
+            "total_av": 376.0,
+            "total_games": 1627.0,
+            "count": 23,
+            "average_av": 16.347826086956523,
+            "average_games": 70.73913043478261
+        },
+        "101": {
+            "total_av": 245.0,
+            "total_games": 1066.0,
+            "count": 22,
+            "average_av": 11.136363636363637,
+            "average_games": 48.45454545454545
+        },
+        "102": {
+            "total_av": 395.0,
+            "total_games": 1441.0,
+            "count": 24,
+            "average_av": 16.458333333333332,
+            "average_games": 60.041666666666664
+        },
+        "103": {
+            "total_av": 335.0,
+            "total_games": 1438.0,
+            "count": 24,
+            "average_av": 13.958333333333334,
+            "average_games": 59.916666666666664
+        },
+        "105": {
+            "total_av": 324.0,
+            "total_games": 1147.0,
+            "count": 23,
+            "average_av": 14.08695652173913,
+            "average_games": 49.869565217391305
+        },
+        "106": {
+            "total_av": 273.0,
+            "total_games": 1135.0,
+            "count": 24,
+            "average_av": 11.375,
+            "average_games": 47.291666666666664
+        },
+        "107": {
+            "total_av": 190.0,
+            "total_games": 1157.0,
+            "count": 24,
+            "average_av": 7.916666666666667,
+            "average_games": 48.208333333333336
+        },
+        "108": {
+            "total_av": 416.0,
+            "total_games": 1386.0,
+            "count": 22,
+            "average_av": 18.90909090909091,
+            "average_games": 63.0
+        },
+        "109": {
+            "total_av": 465.0,
+            "total_games": 1563.0,
+            "count": 24,
+            "average_av": 19.375,
+            "average_games": 65.125
+        },
+        "110": {
+            "total_av": 210.0,
+            "total_games": 1094.0,
+            "count": 24,
+            "average_av": 8.75,
+            "average_games": 45.583333333333336
+        },
+        "111": {
+            "total_av": 225.0,
+            "total_games": 1117.0,
+            "count": 24,
+            "average_av": 9.375,
+            "average_games": 46.541666666666664
+        },
+        "112": {
+            "total_av": 367.0,
+            "total_games": 1458.0,
+            "count": 22,
+            "average_av": 16.681818181818183,
+            "average_games": 66.27272727272727
+        },
+        "113": {
+            "total_av": 289.0,
+            "total_games": 1202.0,
+            "count": 22,
+            "average_av": 13.136363636363637,
+            "average_games": 54.63636363636363
+        },
+        "115": {
+            "total_av": 185.0,
+            "total_games": 1090.0,
+            "count": 22,
+            "average_av": 8.409090909090908,
+            "average_games": 49.54545454545455
+        },
+        "116": {
+            "total_av": 226.0,
+            "total_games": 1348.0,
+            "count": 24,
+            "average_av": 9.416666666666666,
+            "average_games": 56.166666666666664
+        },
+        "117": {
+            "total_av": 289.0,
+            "total_games": 1503.0,
+            "count": 24,
+            "average_av": 12.041666666666666,
+            "average_games": 62.625
+        },
+        "118": {
+            "total_av": 268.0,
+            "total_games": 1408.0,
+            "count": 22,
+            "average_av": 12.181818181818182,
+            "average_games": 64.0
+        },
+        "119": {
+            "total_av": 318.0,
+            "total_games": 1238.0,
+            "count": 24,
+            "average_av": 13.25,
+            "average_games": 51.583333333333336
+        },
+        "120": {
+            "total_av": 370.0,
+            "total_games": 1471.0,
+            "count": 23,
+            "average_av": 16.08695652173913,
+            "average_games": 63.95652173913044
+        },
+        "121": {
+            "total_av": 140.0,
+            "total_games": 846.0,
+            "count": 21,
+            "average_av": 6.666666666666667,
+            "average_games": 40.285714285714285
+        },
+        "122": {
+            "total_av": 276.0,
+            "total_games": 1082.0,
+            "count": 21,
+            "average_av": 13.142857142857142,
+            "average_games": 51.523809523809526
+        },
+        "124": {
+            "total_av": 274.0,
+            "total_games": 1368.0,
+            "count": 24,
+            "average_av": 11.416666666666666,
+            "average_games": 57.0
+        },
+        "125": {
+            "total_av": 275.0,
+            "total_games": 1291.0,
+            "count": 22,
+            "average_av": 12.5,
+            "average_games": 58.68181818181818
+        },
+        "126": {
+            "total_av": 480.0,
+            "total_games": 1622.0,
+            "count": 22,
+            "average_av": 21.818181818181817,
+            "average_games": 73.72727272727273
+        },
+        "127": {
+            "total_av": 175.0,
+            "total_games": 963.0,
+            "count": 22,
+            "average_av": 7.954545454545454,
+            "average_games": 43.77272727272727
+        },
+        "128": {
+            "total_av": 350.0,
+            "total_games": 1477.0,
+            "count": 22,
+            "average_av": 15.909090909090908,
+            "average_games": 67.13636363636364
+        },
+        "129": {
+            "total_av": 199.0,
+            "total_games": 1181.0,
+            "count": 22,
+            "average_av": 9.045454545454545,
+            "average_games": 53.68181818181818
+        },
+        "130": {
+            "total_av": 268.0,
+            "total_games": 1175.0,
+            "count": 21,
+            "average_av": 12.761904761904763,
+            "average_games": 55.95238095238095
+        },
+        "131": {
+            "total_av": 248.0,
+            "total_games": 971.0,
+            "count": 22,
+            "average_av": 11.272727272727273,
+            "average_games": 44.13636363636363
+        },
+        "132": {
+            "total_av": 177.0,
+            "total_games": 975.0,
+            "count": 20,
+            "average_av": 8.85,
+            "average_games": 48.75
+        },
+        "133": {
+            "total_av": 221.0,
+            "total_games": 1172.0,
+            "count": 24,
+            "average_av": 9.208333333333334,
+            "average_games": 48.833333333333336
+        },
+        "135": {
+            "total_av": 368.0,
+            "total_games": 1201.0,
+            "count": 21,
+            "average_av": 17.523809523809526,
+            "average_games": 57.19047619047619
+        },
+        "136": {
+            "total_av": 187.0,
+            "total_games": 1023.0,
+            "count": 23,
+            "average_av": 8.130434782608695,
+            "average_games": 44.47826086956522
+        },
+        "137": {
+            "total_av": 375.0,
+            "total_games": 1696.0,
+            "count": 22,
+            "average_av": 17.045454545454547,
+            "average_games": 77.0909090909091
+        },
+        "139": {
+            "total_av": 160.0,
+            "total_games": 983.0,
+            "count": 24,
+            "average_av": 6.666666666666667,
+            "average_games": 40.958333333333336
+        },
+        "140": {
+            "total_av": 240.0,
+            "total_games": 1298.0,
+            "count": 24,
+            "average_av": 10.0,
+            "average_games": 54.083333333333336
+        },
+        "141": {
+            "total_av": 183.0,
+            "total_games": 924.0,
+            "count": 24,
+            "average_av": 7.625,
+            "average_games": 38.5
+        },
+        "142": {
+            "total_av": 299.0,
+            "total_games": 1696.0,
+            "count": 22,
+            "average_av": 13.590909090909092,
+            "average_games": 77.0909090909091
+        },
+        "143": {
+            "total_av": 290.0,
+            "total_games": 1295.0,
+            "count": 21,
+            "average_av": 13.80952380952381,
+            "average_games": 61.666666666666664
+        },
+        "144": {
+            "total_av": 200.0,
+            "total_games": 981.0,
+            "count": 23,
+            "average_av": 8.695652173913043,
+            "average_games": 42.65217391304348
+        },
+        "145": {
+            "total_av": 194.0,
+            "total_games": 1116.0,
+            "count": 23,
+            "average_av": 8.434782608695652,
+            "average_games": 48.52173913043478
+        },
+        "146": {
+            "total_av": 452.0,
+            "total_games": 1674.0,
+            "count": 23,
+            "average_av": 19.652173913043477,
+            "average_games": 72.78260869565217
+        },
+        "147": {
+            "total_av": 161.0,
+            "total_games": 904.0,
+            "count": 19,
+            "average_av": 8.473684210526315,
+            "average_games": 47.578947368421055
+        },
+        "149": {
+            "total_av": 296.0,
+            "total_games": 1250.0,
+            "count": 23,
+            "average_av": 12.869565217391305,
+            "average_games": 54.34782608695652
+        },
+        "150": {
+            "total_av": 174.0,
+            "total_games": 826.0,
+            "count": 21,
+            "average_av": 8.285714285714286,
+            "average_games": 39.333333333333336
+        },
+        "152": {
+            "total_av": 150.0,
+            "total_games": 931.0,
+            "count": 19,
+            "average_av": 7.894736842105263,
+            "average_games": 49.0
+        },
+        "153": {
+            "total_av": 228.0,
+            "total_games": 1317.0,
+            "count": 21,
+            "average_av": 10.857142857142858,
+            "average_games": 62.714285714285715
+        },
+        "156": {
+            "total_av": 167.0,
+            "total_games": 1020.0,
+            "count": 21,
+            "average_av": 7.9523809523809526,
+            "average_games": 48.57142857142857
+        },
+        "157": {
+            "total_av": 179.0,
+            "total_games": 976.0,
+            "count": 23,
+            "average_av": 7.782608695652174,
+            "average_games": 42.43478260869565
+        },
+        "158": {
+            "total_av": 116.0,
+            "total_games": 855.0,
+            "count": 22,
+            "average_av": 5.2727272727272725,
+            "average_games": 38.86363636363637
+        },
+        "159": {
+            "total_av": 164.0,
+            "total_games": 1021.0,
+            "count": 17,
+            "average_av": 9.647058823529411,
+            "average_games": 60.05882352941177
+        },
+        "160": {
+            "total_av": 185.0,
+            "total_games": 950.0,
+            "count": 21,
+            "average_av": 8.80952380952381,
+            "average_games": 45.23809523809524
+        },
+        "162": {
+            "total_av": 101.0,
+            "total_games": 736.0,
+            "count": 20,
+            "average_av": 5.05,
+            "average_games": 36.8
+        },
+        "163": {
+            "total_av": 219.0,
+            "total_games": 949.0,
+            "count": 21,
+            "average_av": 10.428571428571429,
+            "average_games": 45.19047619047619
+        },
+        "164": {
+            "total_av": 225.0,
+            "total_games": 983.0,
+            "count": 23,
+            "average_av": 9.782608695652174,
+            "average_games": 42.73913043478261
+        },
+        "165": {
+            "total_av": 238.0,
+            "total_games": 1259.0,
+            "count": 23,
+            "average_av": 10.347826086956522,
+            "average_games": 54.73913043478261
+        },
+        "166": {
+            "total_av": 222.0,
+            "total_games": 1101.0,
+            "count": 20,
+            "average_av": 11.1,
+            "average_games": 55.05
+        },
+        "167": {
+            "total_av": 153.0,
+            "total_games": 783.0,
+            "count": 20,
+            "average_av": 7.65,
+            "average_games": 39.15
+        },
+        "168": {
+            "total_av": 224.0,
+            "total_games": 984.0,
+            "count": 20,
+            "average_av": 11.2,
+            "average_games": 49.2
+        },
+        "169": {
+            "total_av": 216.0,
+            "total_games": 1185.0,
+            "count": 23,
+            "average_av": 9.391304347826088,
+            "average_games": 51.52173913043478
+        },
+        "170": {
+            "total_av": 116.0,
+            "total_games": 666.0,
+            "count": 20,
+            "average_av": 5.8,
+            "average_games": 33.3
+        },
+        "172": {
+            "total_av": 122.0,
+            "total_games": 747.0,
+            "count": 19,
+            "average_av": 6.421052631578948,
+            "average_games": 39.31578947368421
+        },
+        "173": {
+            "total_av": 235.0,
+            "total_games": 1226.0,
+            "count": 23,
+            "average_av": 10.217391304347826,
+            "average_games": 53.30434782608695
+        },
+        "174": {
+            "total_av": 203.0,
+            "total_games": 1149.0,
+            "count": 20,
+            "average_av": 10.15,
+            "average_games": 57.45
+        },
+        "175": {
+            "total_av": 171.0,
+            "total_games": 866.0,
+            "count": 22,
+            "average_av": 7.7727272727272725,
+            "average_games": 39.36363636363637
+        },
+        "176": {
+            "total_av": 113.0,
+            "total_games": 828.0,
+            "count": 22,
+            "average_av": 5.136363636363637,
+            "average_games": 37.63636363636363
+        },
+        "177": {
+            "total_av": 180.0,
+            "total_games": 1084.0,
+            "count": 22,
+            "average_av": 8.181818181818182,
+            "average_games": 49.27272727272727
+        },
+        "179": {
+            "total_av": 128.0,
+            "total_games": 814.0,
+            "count": 22,
+            "average_av": 5.818181818181818,
+            "average_games": 37.0
+        },
+        "180": {
+            "total_av": 168.0,
+            "total_games": 872.0,
+            "count": 20,
+            "average_av": 8.4,
+            "average_games": 43.6
+        },
+        "182": {
+            "total_av": 162.0,
+            "total_games": 930.0,
+            "count": 20,
+            "average_av": 8.1,
+            "average_games": 46.5
+        },
+        "183": {
+            "total_av": 90.0,
+            "total_games": 619.0,
+            "count": 21,
+            "average_av": 4.285714285714286,
+            "average_games": 29.476190476190474
+        },
+        "184": {
+            "total_av": 101.0,
+            "total_games": 788.0,
+            "count": 20,
+            "average_av": 5.05,
+            "average_games": 39.4
+        },
+        "186": {
+            "total_av": 156.0,
+            "total_games": 795.0,
+            "count": 21,
+            "average_av": 7.428571428571429,
+            "average_games": 37.857142857142854
+        },
+        "187": {
+            "total_av": 233.0,
+            "total_games": 931.0,
+            "count": 23,
+            "average_av": 10.130434782608695,
+            "average_games": 40.47826086956522
+        },
+        "188": {
+            "total_av": 193.0,
+            "total_games": 1111.0,
+            "count": 19,
+            "average_av": 10.157894736842104,
+            "average_games": 58.473684210526315
+        },
+        "189": {
+            "total_av": 170.0,
+            "total_games": 908.0,
+            "count": 23,
+            "average_av": 7.391304347826087,
+            "average_games": 39.47826086956522
+        },
+        "190": {
+            "total_av": 165.0,
+            "total_games": 941.0,
+            "count": 20,
+            "average_av": 8.25,
+            "average_games": 47.05
+        },
+        "191": {
+            "total_av": 260.0,
+            "total_games": 1212.0,
+            "count": 22,
+            "average_av": 11.818181818181818,
+            "average_games": 55.09090909090909
+        },
+        "193": {
+            "total_av": 218.0,
+            "total_games": 1053.0,
+            "count": 22,
+            "average_av": 9.909090909090908,
+            "average_games": 47.86363636363637
+        },
+        "194": {
+            "total_av": 124.0,
+            "total_games": 643.0,
+            "count": 20,
+            "average_av": 6.2,
+            "average_games": 32.15
+        },
+        "195": {
+            "total_av": 241.0,
+            "total_games": 856.0,
+            "count": 20,
+            "average_av": 12.05,
+            "average_games": 42.8
+        },
+        "196": {
+            "total_av": 86.0,
+            "total_games": 784.0,
+            "count": 22,
+            "average_av": 3.909090909090909,
+            "average_games": 35.63636363636363
+        },
+        "197": {
+            "total_av": 101.0,
+            "total_games": 688.0,
+            "count": 19,
+            "average_av": 5.315789473684211,
+            "average_games": 36.21052631578947
+        },
+        "198": {
+            "total_av": 144.0,
+            "total_games": 926.0,
+            "count": 21,
+            "average_av": 6.857142857142857,
+            "average_games": 44.095238095238095
+        },
+        "199": {
+            "total_av": 331.0,
+            "total_games": 1100.0,
+            "count": 17,
+            "average_av": 19.470588235294116,
+            "average_games": 64.70588235294117
+        },
+        "201": {
+            "total_av": 69.0,
+            "total_games": 525.0,
+            "count": 20,
+            "average_av": 3.45,
+            "average_games": 26.25
+        },
+        "202": {
+            "total_av": 94.0,
+            "total_games": 689.0,
+            "count": 21,
+            "average_av": 4.476190476190476,
+            "average_games": 32.80952380952381
+        },
+        "203": {
+            "total_av": 143.0,
+            "total_games": 811.0,
+            "count": 16,
+            "average_av": 8.9375,
+            "average_games": 50.6875
+        },
+        "206": {
+            "total_av": 111.0,
+            "total_games": 883.0,
+            "count": 22,
+            "average_av": 5.045454545454546,
+            "average_games": 40.13636363636363
+        },
+        "210": {
+            "total_av": 136.0,
+            "total_games": 939.0,
+            "count": 19,
+            "average_av": 7.157894736842105,
+            "average_games": 49.421052631578945
+        },
+        "211": {
+            "total_av": 72.0,
+            "total_games": 687.0,
+            "count": 17,
+            "average_av": 4.235294117647059,
+            "average_games": 40.411764705882355
+        },
+        "212": {
+            "total_av": 75.0,
+            "total_games": 550.0,
+            "count": 19,
+            "average_av": 3.9473684210526314,
+            "average_games": 28.94736842105263
+        },
+        "213": {
+            "total_av": 135.0,
+            "total_games": 740.0,
+            "count": 21,
+            "average_av": 6.428571428571429,
+            "average_games": 35.23809523809524
+        },
+        "214": {
+            "total_av": 102.0,
+            "total_games": 539.0,
+            "count": 19,
+            "average_av": 5.368421052631579,
+            "average_games": 28.36842105263158
+        },
+        "215": {
+            "total_av": 141.0,
+            "total_games": 772.0,
+            "count": 21,
+            "average_av": 6.714285714285714,
+            "average_games": 36.76190476190476
+        },
+        "216": {
+            "total_av": 170.0,
+            "total_games": 812.0,
+            "count": 16,
+            "average_av": 10.625,
+            "average_games": 50.75
+        },
+        "217": {
+            "total_av": 107.0,
+            "total_games": 711.0,
+            "count": 20,
+            "average_av": 5.35,
+            "average_games": 35.55
+        },
+        "219": {
+            "total_av": 102.0,
+            "total_games": 554.0,
+            "count": 19,
+            "average_av": 5.368421052631579,
+            "average_games": 29.157894736842106
+        },
+        "221": {
+            "total_av": 89.0,
+            "total_games": 538.0,
+            "count": 17,
+            "average_av": 5.235294117647059,
+            "average_games": 31.647058823529413
+        },
+        "222": {
+            "total_av": 118.0,
+            "total_games": 767.0,
+            "count": 19,
+            "average_av": 6.2105263157894735,
+            "average_games": 40.36842105263158
+        },
+        "224": {
+            "total_av": 253.0,
+            "total_games": 1117.0,
+            "count": 19,
+            "average_av": 13.31578947368421,
+            "average_games": 58.78947368421053
+        },
+        "225": {
+            "total_av": 105.0,
+            "total_games": 621.0,
+            "count": 19,
+            "average_av": 5.526315789473684,
+            "average_games": 32.68421052631579
+        },
+        "227": {
+            "total_av": 85.0,
+            "total_games": 508.0,
+            "count": 18,
+            "average_av": 4.722222222222222,
+            "average_games": 28.22222222222222
+        },
+        "228": {
+            "total_av": 92.0,
+            "total_games": 778.0,
+            "count": 21,
+            "average_av": 4.380952380952381,
+            "average_games": 37.04761904761905
+        },
+        "229": {
+            "total_av": 98.0,
+            "total_games": 576.0,
+            "count": 19,
+            "average_av": 5.157894736842105,
+            "average_games": 30.31578947368421
+        },
+        "230": {
+            "total_av": 161.0,
+            "total_games": 963.0,
+            "count": 20,
+            "average_av": 8.05,
+            "average_games": 48.15
+        },
+        "233": {
+            "total_av": 245.0,
+            "total_games": 1151.0,
+            "count": 20,
+            "average_av": 12.25,
+            "average_games": 57.55
+        },
+        "234": {
+            "total_av": 105.0,
+            "total_games": 681.0,
+            "count": 20,
+            "average_av": 5.25,
+            "average_games": 34.05
+        },
+        "236": {
+            "total_av": 52.0,
+            "total_games": 514.0,
+            "count": 19,
+            "average_av": 2.736842105263158,
+            "average_games": 27.05263157894737
+        },
+        "237": {
+            "total_av": 51.0,
+            "total_games": 387.0,
+            "count": 21,
+            "average_av": 2.4285714285714284,
+            "average_games": 18.428571428571427
+        },
+        "238": {
+            "total_av": 89.0,
+            "total_games": 518.0,
+            "count": 15,
+            "average_av": 5.933333333333334,
+            "average_games": 34.53333333333333
+        },
+        "239": {
+            "total_av": 181.0,
+            "total_games": 933.0,
+            "count": 19,
+            "average_av": 9.526315789473685,
+            "average_games": 49.10526315789474
+        },
+        "241": {
+            "total_av": 65.0,
+            "total_games": 550.0,
+            "count": 15,
+            "average_av": 4.333333333333333,
+            "average_games": 36.666666666666664
+        },
+        "242": {
+            "total_av": 169.0,
+            "total_games": 801.0,
+            "count": 20,
+            "average_av": 8.45,
+            "average_games": 40.05
+        },
+        "243": {
+            "total_av": 81.0,
+            "total_games": 852.0,
+            "count": 18,
+            "average_av": 4.5,
+            "average_games": 47.333333333333336
+        },
+        "245": {
+            "total_av": 93.0,
+            "total_games": 666.0,
+            "count": 16,
+            "average_av": 5.8125,
+            "average_games": 41.625
+        },
+        "248": {
+            "total_av": 160.0,
+            "total_games": 599.0,
+            "count": 15,
+            "average_av": 10.666666666666666,
+            "average_games": 39.93333333333333
+        },
+        "249": {
+            "total_av": 136.0,
+            "total_games": 780.0,
+            "count": 20,
+            "average_av": 6.8,
+            "average_games": 39.0
+        },
+        "251": {
+            "total_av": 177.0,
+            "total_games": 973.0,
+            "count": 20,
+            "average_av": 8.85,
+            "average_games": 48.65
+        },
+        "252": {
+            "total_av": 117.0,
+            "total_games": 498.0,
+            "count": 15,
+            "average_av": 7.8,
+            "average_games": 33.2
+        },
+        "253": {
+            "total_av": 86.0,
+            "total_games": 562.0,
+            "count": 16,
+            "average_av": 5.375,
+            "average_games": 35.125
+        },
+        "254": {
+            "total_av": 59.0,
+            "total_games": 437.0,
+            "count": 14,
+            "average_av": 4.214285714285714,
+            "average_games": 31.214285714285715
+        },
+        "56": {
+            "total_av": 387.0,
+            "total_games": 1401.0,
+            "count": 22,
+            "average_av": 17.59090909090909,
+            "average_games": 63.68181818181818
+        },
+        "65": {
+            "total_av": 472.0,
+            "total_games": 1706.0,
+            "count": 23,
+            "average_av": 20.52173913043478,
+            "average_games": 74.17391304347827
+        },
+        "104": {
+            "total_av": 265.0,
+            "total_games": 1212.0,
+            "count": 20,
+            "average_av": 13.25,
+            "average_games": 60.6
+        },
+        "114": {
+            "total_av": 215.0,
+            "total_games": 1191.0,
+            "count": 22,
+            "average_av": 9.772727272727273,
+            "average_games": 54.13636363636363
+        },
+        "123": {
+            "total_av": 258.0,
+            "total_games": 1250.0,
+            "count": 23,
+            "average_av": 11.217391304347826,
+            "average_games": 54.34782608695652
+        },
+        "138": {
+            "total_av": 247.0,
+            "total_games": 1086.0,
+            "count": 21,
+            "average_av": 11.761904761904763,
+            "average_games": 51.714285714285715
+        },
+        "148": {
+            "total_av": 139.0,
+            "total_games": 710.0,
+            "count": 22,
+            "average_av": 6.318181818181818,
+            "average_games": 32.27272727272727
+        },
+        "151": {
+            "total_av": 224.0,
+            "total_games": 963.0,
+            "count": 21,
+            "average_av": 10.666666666666666,
+            "average_games": 45.857142857142854
+        },
+        "154": {
+            "total_av": 351.0,
+            "total_games": 1384.0,
+            "count": 22,
+            "average_av": 15.954545454545455,
+            "average_games": 62.90909090909091
+        },
+        "155": {
+            "total_av": 147.0,
+            "total_games": 958.0,
+            "count": 19,
+            "average_av": 7.7368421052631575,
+            "average_games": 50.421052631578945
+        },
+        "171": {
+            "total_av": 98.0,
+            "total_games": 610.0,
+            "count": 20,
+            "average_av": 4.9,
+            "average_games": 30.5
+        },
+        "178": {
+            "total_av": 146.0,
+            "total_games": 774.0,
+            "count": 16,
+            "average_av": 9.125,
+            "average_games": 48.375
+        },
+        "181": {
+            "total_av": 177.0,
+            "total_games": 953.0,
+            "count": 22,
+            "average_av": 8.045454545454545,
+            "average_games": 43.31818181818182
+        },
+        "192": {
+            "total_av": 95.0,
+            "total_games": 683.0,
+            "count": 18,
+            "average_av": 5.277777777777778,
+            "average_games": 37.94444444444444
+        },
+        "200": {
+            "total_av": 207.0,
+            "total_games": 791.0,
+            "count": 18,
+            "average_av": 11.5,
+            "average_games": 43.94444444444444
+        },
+        "204": {
+            "total_av": 164.0,
+            "total_games": 883.0,
+            "count": 19,
+            "average_av": 8.631578947368421,
+            "average_games": 46.473684210526315
+        },
+        "207": {
+            "total_av": 234.0,
+            "total_games": 1108.0,
+            "count": 20,
+            "average_av": 11.7,
+            "average_games": 55.4
+        },
+        "220": {
+            "total_av": 132.0,
+            "total_games": 854.0,
+            "count": 18,
+            "average_av": 7.333333333333333,
+            "average_games": 47.44444444444444
+        },
+        "223": {
+            "total_av": 64.0,
+            "total_games": 521.0,
+            "count": 17,
+            "average_av": 3.764705882352941,
+            "average_games": 30.647058823529413
+        },
+        "226": {
+            "total_av": 132.0,
+            "total_games": 642.0,
+            "count": 19,
+            "average_av": 6.947368421052632,
+            "average_games": 33.78947368421053
+        },
+        "231": {
+            "total_av": 51.0,
+            "total_games": 368.0,
+            "count": 19,
+            "average_av": 2.6842105263157894,
+            "average_games": 19.36842105263158
+        },
+        "232": {
+            "total_av": 109.0,
+            "total_games": 598.0,
+            "count": 19,
+            "average_av": 5.7368421052631575,
+            "average_games": 31.473684210526315
+        },
+        "240": {
+            "total_av": 95.0,
+            "total_games": 537.0,
+            "count": 17,
+            "average_av": 5.588235294117647,
+            "average_games": 31.58823529411765
+        },
+        "244": {
+            "total_av": 189.0,
+            "total_games": 931.0,
+            "count": 18,
+            "average_av": 10.5,
+            "average_games": 51.72222222222222
+        },
+        "161": {
+            "total_av": 201.0,
+            "total_games": 948.0,
+            "count": 21,
+            "average_av": 9.571428571428571,
+            "average_games": 45.142857142857146
+        },
+        "185": {
+            "total_av": 64.0,
+            "total_games": 740.0,
+            "count": 20,
+            "average_av": 3.2,
+            "average_games": 37.0
+        },
+        "209": {
+            "total_av": 104.0,
+            "total_games": 557.0,
+            "count": 17,
+            "average_av": 6.117647058823529,
+            "average_games": 32.76470588235294
+        },
+        "218": {
+            "total_av": 140.0,
+            "total_games": 705.0,
+            "count": 17,
+            "average_av": 8.235294117647058,
+            "average_games": 41.470588235294116
+        },
+        "235": {
+            "total_av": 127.0,
+            "total_games": 631.0,
+            "count": 17,
+            "average_av": 7.470588235294118,
+            "average_games": 37.11764705882353
+        },
+        "246": {
+            "total_av": 103.0,
+            "total_games": 601.0,
+            "count": 15,
+            "average_av": 6.866666666666666,
+            "average_games": 40.06666666666667
+        },
+        "247": {
+            "total_av": 48.0,
+            "total_games": 362.0,
+            "count": 16,
+            "average_av": 3.0,
+            "average_games": 22.625
+        },
+        "257": {
+            "total_av": 10.0,
+            "total_games": 165.0,
+            "count": 3,
+            "average_av": 3.3333333333333335,
+            "average_games": 55.0
+        },
+        "258": {
+            "total_av": 2.0,
+            "total_games": 50.0,
+            "count": 3,
+            "average_av": 0.6666666666666666,
+            "average_games": 16.666666666666668
+        },
+        "259": {
+            "total_av": 4.0,
+            "total_games": 64.0,
+            "count": 5,
+            "average_av": 0.8,
+            "average_games": 12.8
+        },
+        "260": {
+            "total_av": 2.0,
+            "total_games": 36.0,
+            "count": 2,
+            "average_av": 1.0,
+            "average_games": 18.0
+        },
+        "134": {
+            "total_av": 245.0,
+            "total_games": 1037.0,
+            "count": 19,
+            "average_av": 12.894736842105264,
+            "average_games": 54.578947368421055
+        },
+        "205": {
+            "total_av": 158.0,
+            "total_games": 864.0,
+            "count": 20,
+            "average_av": 7.9,
+            "average_games": 43.2
+        },
+        "208": {
+            "total_av": 74.0,
+            "total_games": 673.0,
+            "count": 17,
+            "average_av": 4.352941176470588,
+            "average_games": 39.588235294117645
+        },
+        "255": {
+            "total_av": 78.0,
+            "total_games": 330.0,
+            "count": 8,
+            "average_av": 9.75,
+            "average_games": 41.25
+        },
+        "256": {
+            "total_av": 31.0,
+            "total_games": 272.0,
+            "count": 7,
+            "average_av": 4.428571428571429,
+            "average_games": 38.857142857142854
+        },
+        "261": {
+            "total_av": 1.0,
+            "total_games": 12.0,
+            "count": 2,
+            "average_av": 0.5,
+            "average_games": 6.0
+        },
+        "250": {
+            "total_av": 211.0,
+            "total_games": 786.0,
+            "count": 17,
+            "average_av": 12.411764705882353,
+            "average_games": 46.23529411764706
+        },
+        "262": {
+            "total_av": 6.0,
+            "total_games": 17.0,
+            "count": 1,
+            "average_av": 6.0,
+            "average_games": 17.0
+        }
+    }
+}

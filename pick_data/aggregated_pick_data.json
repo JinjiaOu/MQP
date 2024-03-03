@@ -1,0 +1,1580 @@
+{
+    "pick_data": {
+        "1": {
+            "total_av": 1445.0,
+            "total_games": 2492.0,
+            "av_percentage": 1.645167533842633,
+            "game_percentage": 0.7649639159276416
+        },
+        "2": {
+            "total_av": 1070.0,
+            "total_games": 2267.0,
+            "av_percentage": 1.2182209420149601,
+            "game_percentage": 0.6958961466324091
+        },
+        "3": {
+            "total_av": 1025.0,
+            "total_games": 2459.0,
+            "av_percentage": 1.1669873509956394,
+            "game_percentage": 0.7548339764310075
+        },
+        "4": {
+            "total_av": 1061.0,
+            "total_games": 2373.0,
+            "av_percentage": 1.207974223811096,
+            "game_percentage": 0.7284347401670519
+        },
+        "5": {
+            "total_av": 1100.0,
+            "total_games": 2341.0,
+            "av_percentage": 1.252376669361174,
+            "game_percentage": 0.7186117685339521
+        },
+        "6": {
+            "total_av": 961.0,
+            "total_games": 2329.0,
+            "av_percentage": 1.0941217993237167,
+            "game_percentage": 0.7149281541715398
+        },
+        "7": {
+            "total_av": 925.0,
+            "total_games": 2337.0,
+            "av_percentage": 1.0531349265082601,
+            "game_percentage": 0.7173838970798146
+        },
+        "8": {
+            "total_av": 847.0,
+            "total_games": 2106.0,
+            "av_percentage": 0.9643300354081041,
+            "game_percentage": 0.6464743206033761
+        },
+        "9": {
+            "total_av": 987.0,
+            "total_games": 2312.0,
+            "av_percentage": 1.1237234296904353,
+            "game_percentage": 0.7097097004914555
+        },
+        "10": {
+            "total_av": 803.0,
+            "total_games": 2092.0,
+            "av_percentage": 0.914234968633657,
+            "game_percentage": 0.6421767705138949
+        },
+        "11": {
+            "total_av": 1094.0,
+            "total_games": 2377.0,
+            "av_percentage": 1.2455455238919313,
+            "game_percentage": 0.7296626116211894
+        },
+        "12": {
+            "total_av": 923.0,
+            "total_games": 2117.0,
+            "av_percentage": 1.0508578780185125,
+            "game_percentage": 0.6498509671022541
+        },
+        "13": {
+            "total_av": 1044.0,
+            "total_games": 2455.0,
+            "av_percentage": 1.1886193116482415,
+            "game_percentage": 0.75360610497687
+        },
+        "14": {
+            "total_av": 910.0,
+            "total_games": 2411.0,
+            "av_percentage": 1.036057062835153,
+            "game_percentage": 0.7400995189813578
+        },
+        "15": {
+            "total_av": 787.0,
+            "total_games": 2111.0,
+            "av_percentage": 0.8960185807156764,
+            "game_percentage": 0.6480091599210478
+        },
+        "16": {
+            "total_av": 804.0,
+            "total_games": 2095.0,
+            "av_percentage": 0.9153734928785309,
+            "game_percentage": 0.643097674104498
+        },
+        "17": {
+            "total_av": 861.0,
+            "total_games": 2377.0,
+            "av_percentage": 0.980269374836337,
+            "game_percentage": 0.7296626116211894
+        },
+        "18": {
+            "total_av": 874.0,
+            "total_games": 2346.0,
+            "av_percentage": 0.9950701900196965,
+            "game_percentage": 0.7201466078516241
+        },
+        "19": {
+            "total_av": 742.0,
+            "total_games": 2045.0,
+            "av_percentage": 0.8447849896963556,
+            "game_percentage": 0.6277492809277797
+        },
+        "20": {
+            "total_av": 732.0,
+            "total_games": 2152.0,
+            "av_percentage": 0.8333997472476177,
+            "game_percentage": 0.6605948423259569
+        },
+        "21": {
+            "total_av": 751.0,
+            "total_games": 2144.0,
+            "av_percentage": 0.8550317079002198,
+            "game_percentage": 0.6581390994176819
+        },
+        "22": {
+            "total_av": 613.0,
+            "total_games": 1729.0,
+            "av_percentage": 0.697915362107636,
+            "game_percentage": 0.5307474360509199
+        },
+        "23": {
+            "total_av": 622.0,
+            "total_games": 1774.0,
+            "av_percentage": 0.7081620803115003,
+            "game_percentage": 0.5445609899099664
+        },
+        "24": {
+            "total_av": 1036.0,
+            "total_games": 2397.0,
+            "av_percentage": 1.1795111176892512,
+            "game_percentage": 0.7358019688918767
+        },
+        "25": {
+            "total_av": 719.0,
+            "total_games": 1971.0,
+            "av_percentage": 0.8185989320642583,
+            "game_percentage": 0.6050336590262366
+        },
+        "26": {
+            "total_av": 529.0,
+            "total_games": 1813.0,
+            "av_percentage": 0.6022793255382374,
+            "game_percentage": 0.5565327365878066
+        },
+        "27": {
+            "total_av": 830.0,
+            "total_games": 2412.0,
+            "av_percentage": 0.9449751232452496,
+            "game_percentage": 0.7404064868448922
+        },
+        "28": {
+            "total_av": 616.0,
+            "total_games": 2129.0,
+            "av_percentage": 0.7013309348422574,
+            "game_percentage": 0.6535345814646665
+        },
+        "29": {
+            "total_av": 609.0,
+            "total_games": 2019.0,
+            "av_percentage": 0.6933612651281409,
+            "game_percentage": 0.6197681164758861
+        },
+        "30": {
+            "total_av": 717.0,
+            "total_games": 1881.0,
+            "av_percentage": 0.8163218835745106,
+            "game_percentage": 0.5774065513081436
+        },
+        "31": {
+            "total_av": 701.0,
+            "total_games": 2091.0,
+            "av_percentage": 0.7981054956565301,
+            "game_percentage": 0.6418698026503605
+        },
+        "32": {
+            "total_av": 835.0,
+            "total_games": 2135.0,
+            "av_percentage": 0.9506677444696184,
+            "game_percentage": 0.6553763886458727
+        },
+        "33": {
+            "total_av": 690.0,
+            "total_games": 2144.0,
+            "av_percentage": 0.7855817289629183,
+            "game_percentage": 0.6581390994176819
+        },
+        "34": {
+            "total_av": 732.0,
+            "total_games": 2104.0,
+            "av_percentage": 0.8333997472476177,
+            "game_percentage": 0.6458603848763073
+        },
+        "35": {
+            "total_av": 754.0,
+            "total_games": 2182.0,
+            "av_percentage": 0.8584472806348411,
+            "game_percentage": 0.669803878231988
+        },
+        "36": {
+            "total_av": 782.0,
+            "total_games": 1942.0,
+            "av_percentage": 0.8903259594913073,
+            "game_percentage": 0.5961315909837399
+        },
+        "37": {
+            "total_av": 704.0,
+            "total_games": 1949.0,
+            "av_percentage": 0.8015210683911514,
+            "game_percentage": 0.5982803660284806
+        },
+        "38": {
+            "total_av": 507.0,
+            "total_games": 1690.0,
+            "av_percentage": 0.577231792151014,
+            "game_percentage": 0.5187756893730795
+        },
+        "39": {
+            "total_av": 635.0,
+            "total_games": 1849.0,
+            "av_percentage": 0.7229628954948596,
+            "game_percentage": 0.5675835796750438
+        },
+        "40": {
+            "total_av": 456.0,
+            "total_games": 1587.0,
+            "av_percentage": 0.5191670556624504,
+            "game_percentage": 0.48715799942903976
+        },
+        "41": {
+            "total_av": 557.0,
+            "total_games": 1723.0,
+            "av_percentage": 0.6341580043947036,
+            "game_percentage": 0.5289056288697136
+        },
+        "42": {
+            "total_av": 597.0,
+            "total_games": 1867.0,
+            "av_percentage": 0.6796989741896553,
+            "game_percentage": 0.5731090012186625
+        },
+        "43": {
+            "total_av": 458.0,
+            "total_games": 1601.0,
+            "av_percentage": 0.5214441041521979,
+            "game_percentage": 0.4914555495185209
+        },
+        "44": {
+            "total_av": 543.0,
+            "total_games": 1518.0,
+            "av_percentage": 0.6182186649664705,
+            "game_percentage": 0.46597721684516846
+        },
+        "45": {
+            "total_av": 505.0,
+            "total_games": 1620.0,
+            "av_percentage": 0.5749547436612662,
+            "game_percentage": 0.49728793892567386
+        },
+        "46": {
+            "total_av": 595.0,
+            "total_games": 1834.0,
+            "av_percentage": 0.6774219256999078,
+            "game_percentage": 0.5629790617220284
+        },
+        "47": {
+            "total_av": 674.0,
+            "total_games": 2146.0,
+            "av_percentage": 0.7673653410449376,
+            "game_percentage": 0.6587530351447507
+        },
+        "48": {
+            "total_av": 571.0,
+            "total_games": 1830.0,
+            "av_percentage": 0.6500973438229367,
+            "game_percentage": 0.5617511902678909
+        },
+        "49": {
+            "total_av": 447.0,
+            "total_games": 1552.0,
+            "av_percentage": 0.5089203374585862,
+            "game_percentage": 0.4764141242053369
+        },
+        "50": {
+            "total_av": 578.0,
+            "total_games": 1889.0,
+            "av_percentage": 0.6580670135370533,
+            "game_percentage": 0.5798622942164186
+        },
+        "51": {
+            "total_av": 452.0,
+            "total_games": 1395.0,
+            "av_percentage": 0.5146129586829551,
+            "game_percentage": 0.42822016963044135
+        },
+        "52": {
+            "total_av": 499.0,
+            "total_games": 1693.0,
+            "av_percentage": 0.5681235981920235,
+            "game_percentage": 0.5196965929636826
+        },
+        "53": {
+            "total_av": 494.0,
+            "total_games": 1627.0,
+            "av_percentage": 0.5624309769676545,
+            "game_percentage": 0.49943671397041445
+        },
+        "54": {
+            "total_av": 443.0,
+            "total_games": 1827.0,
+            "av_percentage": 0.504366240479091,
+            "game_percentage": 0.5608302866772877
+        },
+        "55": {
+            "total_av": 660.0,
+            "total_games": 2200.0,
+            "av_percentage": 0.7514260016167045,
+            "game_percentage": 0.6753292997756064
+        },
+        "56": {
+            "total_av": 387.0,
+            "total_games": 1401.0,
+            "av_percentage": 0.4406088827661585,
+            "game_percentage": 0.4300619768116476
+        },
+        "57": {
+            "total_av": 468.0,
+            "total_games": 1697.0,
+            "av_percentage": 0.5328293466009358,
+            "game_percentage": 0.5209244644178201
+        },
+        "58": {
+            "total_av": 490.0,
+            "total_games": 1558.0,
+            "av_percentage": 0.5578768799881594,
+            "game_percentage": 0.47825593138654315
+        },
+        "59": {
+            "total_av": 470.0,
+            "total_games": 1665.0,
+            "av_percentage": 0.5351063950906835,
+            "game_percentage": 0.5111014927847203
+        },
+        "60": {
+            "total_av": 529.0,
+            "total_games": 1722.0,
+            "av_percentage": 0.6022793255382374,
+            "game_percentage": 0.5285986610061792
+        },
+        "61": {
+            "total_av": 587.0,
+            "total_games": 2039.0,
+            "av_percentage": 0.6683137317409173,
+            "game_percentage": 0.6259074737465735
+        },
+        "62": {
+            "total_av": 493.0,
+            "total_games": 1586.0,
+            "av_percentage": 0.5612924527227807,
+            "game_percentage": 0.48685103156550535
+        },
+        "63": {
+            "total_av": 569.0,
+            "total_games": 1715.0,
+            "av_percentage": 0.6478202953331892,
+            "game_percentage": 0.5264498859614387
+        },
+        "64": {
+            "total_av": 567.0,
+            "total_games": 1763.0,
+            "av_percentage": 0.6455432468434416,
+            "game_percentage": 0.5411843434110883
+        },
+        "65": {
+            "total_av": 472.0,
+            "total_games": 1706.0,
+            "av_percentage": 0.537383443580431,
+            "game_percentage": 0.5236871751896294
+        },
+        "66": {
+            "total_av": 491.0,
+            "total_games": 1651.0,
+            "av_percentage": 0.5590154042330331,
+            "game_percentage": 0.5068039426952392
+        },
+        "67": {
+            "total_av": 364.0,
+            "total_games": 1310.0,
+            "av_percentage": 0.4144228251340612,
+            "game_percentage": 0.40212790123002023
+        },
+        "68": {
+            "total_av": 332.0,
+            "total_games": 1480.0,
+            "av_percentage": 0.3779900492980998,
+            "game_percentage": 0.4543124380308626
+        },
+        "69": {
+            "total_av": 498.0,
+            "total_games": 1739.0,
+            "av_percentage": 0.5669850739471497,
+            "game_percentage": 0.5338171146862635
+        },
+        "70": {
+            "total_av": 447.0,
+            "total_games": 1685.0,
+            "av_percentage": 0.5089203374585862,
+            "game_percentage": 0.5172408500554078
+        },
+        "71": {
+            "total_av": 544.0,
+            "total_games": 1899.0,
+            "av_percentage": 0.6193571892113442,
+            "game_percentage": 0.5829319728517621
+        },
+        "72": {
+            "total_av": 335.0,
+            "total_games": 1378.0,
+            "av_percentage": 0.3814056220327212,
+            "game_percentage": 0.4230017159503572
+        },
+        "73": {
+            "total_av": 478.0,
+            "total_games": 1643.0,
+            "av_percentage": 0.5442145890496738,
+            "game_percentage": 0.5043481997869642
+        },
+        "74": {
+            "total_av": 349.0,
+            "total_games": 1252.0,
+            "av_percentage": 0.3973449614609543,
+            "game_percentage": 0.384323765145027
+        },
+        "75": {
+            "total_av": 445.0,
+            "total_games": 1303.0,
+            "av_percentage": 0.5066432889688386,
+            "game_percentage": 0.39997912618527964
+        },
+        "76": {
+            "total_av": 386.0,
+            "total_games": 1358.0,
+            "av_percentage": 0.4394703585212847,
+            "game_percentage": 0.41686235867966986
+        },
+        "77": {
+            "total_av": 382.0,
+            "total_games": 1429.0,
+            "av_percentage": 0.4349162615417896,
+            "game_percentage": 0.43865707699060985
+        },
+        "78": {
+            "total_av": 512.0,
+            "total_games": 1655.0,
+            "av_percentage": 0.5829244133753828,
+            "game_percentage": 0.5080318141493767
+        },
+        "79": {
+            "total_av": 320.0,
+            "total_games": 1401.0,
+            "av_percentage": 0.3643277583596143,
+            "game_percentage": 0.4300619768116476
+        },
+        "80": {
+            "total_av": 241.0,
+            "total_games": 903.0,
+            "av_percentage": 0.2743843430145845,
+            "game_percentage": 0.277191980771533
+        },
+        "81": {
+            "total_av": 505.0,
+            "total_games": 1891.0,
+            "av_percentage": 0.5749547436612662,
+            "game_percentage": 0.5804762299434872
+        },
+        "82": {
+            "total_av": 243.0,
+            "total_games": 1331.0,
+            "av_percentage": 0.2766613915043321,
+            "game_percentage": 0.40857422636424195
+        },
+        "83": {
+            "total_av": 475.0,
+            "total_games": 1766.0,
+            "av_percentage": 0.5407990163150524,
+            "game_percentage": 0.5421052470016914
+        },
+        "84": {
+            "total_av": 490.0,
+            "total_games": 1781.0,
+            "av_percentage": 0.5578768799881594,
+            "game_percentage": 0.5467097649547069
+        },
+        "85": {
+            "total_av": 231.0,
+            "total_games": 1215.0,
+            "av_percentage": 0.2629991005658465,
+            "game_percentage": 0.3729659541942554
+        },
+        "86": {
+            "total_av": 372.0,
+            "total_games": 1206.0,
+            "av_percentage": 0.42353101909305163,
+            "game_percentage": 0.3702032434224461
+        },
+        "87": {
+            "total_av": 214.0,
+            "total_games": 1094.0,
+            "av_percentage": 0.24364418840299207,
+            "game_percentage": 0.335822842706597
+        },
+        "88": {
+            "total_av": 352.0,
+            "total_games": 1597.0,
+            "av_percentage": 0.4007605341955757,
+            "game_percentage": 0.4902276780643834
+        },
+        "89": {
+            "total_av": 349.0,
+            "total_games": 1361.0,
+            "av_percentage": 0.3973449614609543,
+            "game_percentage": 0.4177832622702729
+        },
+        "90": {
+            "total_av": 256.0,
+            "total_games": 1301.0,
+            "av_percentage": 0.2914622066876914,
+            "game_percentage": 0.39936519045821095
+        },
+        "91": {
+            "total_av": 489.0,
+            "total_games": 1733.0,
+            "av_percentage": 0.5567383557432856,
+            "game_percentage": 0.5319753075050573
+        },
+        "92": {
+            "total_av": 484.0,
+            "total_games": 1650.0,
+            "av_percentage": 0.5510457345189166,
+            "game_percentage": 0.5064969748317049
+        },
+        "93": {
+            "total_av": 264.0,
+            "total_games": 1272.0,
+            "av_percentage": 0.3005704006466818,
+            "game_percentage": 0.3904631224157143
+        },
+        "94": {
+            "total_av": 367.0,
+            "total_games": 1495.0,
+            "av_percentage": 0.4178383978686826,
+            "game_percentage": 0.458916955983878
+        },
+        "95": {
+            "total_av": 298.0,
+            "total_games": 1335.0,
+            "av_percentage": 0.33928022497239074,
+            "game_percentage": 0.40980209781837945
+        },
+        "96": {
+            "total_av": 257.0,
+            "total_games": 1255.0,
+            "av_percentage": 0.29260073093256517,
+            "game_percentage": 0.38524466873563007
+        },
+        "97": {
+            "total_av": 271.0,
+            "total_games": 1303.0,
+            "av_percentage": 0.30854007036079834,
+            "game_percentage": 0.39997912618527964
+        },
+        "98": {
+            "total_av": 401.0,
+            "total_games": 1476.0,
+            "av_percentage": 0.4565482221943916,
+            "game_percentage": 0.4530845665767251
+        },
+        "99": {
+            "total_av": 355.0,
+            "total_games": 1604.0,
+            "av_percentage": 0.40417610693019707,
+            "game_percentage": 0.49237645310912403
+        },
+        "100": {
+            "total_av": 376.0,
+            "total_games": 1627.0,
+            "av_percentage": 0.42808511607254673,
+            "game_percentage": 0.49943671397041445
+        },
+        "101": {
+            "total_av": 245.0,
+            "total_games": 1066.0,
+            "av_percentage": 0.2789384399940797,
+            "game_percentage": 0.32722774252763476
+        },
+        "102": {
+            "total_av": 395.0,
+            "total_games": 1441.0,
+            "av_percentage": 0.4497170767251489,
+            "game_percentage": 0.44234069135302223
+        },
+        "103": {
+            "total_av": 335.0,
+            "total_games": 1438.0,
+            "av_percentage": 0.3814056220327212,
+            "game_percentage": 0.44141978776241914
+        },
+        "104": {
+            "total_av": 265.0,
+            "total_games": 1212.0,
+            "av_percentage": 0.3017089248915556,
+            "game_percentage": 0.37204505060365234
+        },
+        "105": {
+            "total_av": 324.0,
+            "total_games": 1147.0,
+            "av_percentage": 0.36888185533910944,
+            "game_percentage": 0.3520921394739185
+        },
+        "106": {
+            "total_av": 273.0,
+            "total_games": 1135.0,
+            "av_percentage": 0.3108171188505459,
+            "game_percentage": 0.34840852511150605
+        },
+        "107": {
+            "total_av": 190.0,
+            "total_games": 1157.0,
+            "av_percentage": 0.21631960652602095,
+            "game_percentage": 0.3551618181092621
+        },
+        "108": {
+            "total_av": 416.0,
+            "total_games": 1386.0,
+            "av_percentage": 0.47362608586749855,
+            "game_percentage": 0.42545745885863206
+        },
+        "109": {
+            "total_av": 465.0,
+            "total_games": 1563.0,
+            "av_percentage": 0.5294137738663145,
+            "game_percentage": 0.47979077070421494
+        },
+        "110": {
+            "total_av": 210.0,
+            "total_games": 1094.0,
+            "av_percentage": 0.23909009142349685,
+            "game_percentage": 0.335822842706597
+        },
+        "111": {
+            "total_av": 225.0,
+            "total_games": 1117.0,
+            "av_percentage": 0.2561679550966038,
+            "game_percentage": 0.3428831035678875
+        },
+        "112": {
+            "total_av": 367.0,
+            "total_games": 1458.0,
+            "av_percentage": 0.4178383978686826,
+            "game_percentage": 0.4475591450331065
+        },
+        "113": {
+            "total_av": 289.0,
+            "total_games": 1202.0,
+            "av_percentage": 0.32903350676852666,
+            "game_percentage": 0.3689753719683086
+        },
+        "114": {
+            "total_av": 215.0,
+            "total_games": 1191.0,
+            "av_percentage": 0.24478271264786583,
+            "game_percentage": 0.36559872546943056
+        },
+        "115": {
+            "total_av": 185.0,
+            "total_games": 1090.0,
+            "av_percentage": 0.210626985301652,
+            "game_percentage": 0.33459497125245957
+        },
+        "116": {
+            "total_av": 226.0,
+            "total_games": 1348.0,
+            "av_percentage": 0.25730647934147755,
+            "game_percentage": 0.4137926800443261
+        },
+        "117": {
+            "total_av": 289.0,
+            "total_games": 1503.0,
+            "av_percentage": 0.32903350676852666,
+            "game_percentage": 0.461372698892153
+        },
+        "118": {
+            "total_av": 268.0,
+            "total_games": 1408.0,
+            "av_percentage": 0.30512449762617694,
+            "game_percentage": 0.43221075185638813
+        },
+        "119": {
+            "total_av": 318.0,
+            "total_games": 1238.0,
+            "av_percentage": 0.36205070986986665,
+            "game_percentage": 0.38002621505554585
+        },
+        "120": {
+            "total_av": 370.0,
+            "total_games": 1471.0,
+            "av_percentage": 0.421253970603304,
+            "game_percentage": 0.4515497272590533
+        },
+        "121": {
+            "total_av": 140.0,
+            "total_games": 846.0,
+            "av_percentage": 0.15939339428233124,
+            "game_percentage": 0.25969481255007415
+        },
+        "122": {
+            "total_av": 276.0,
+            "total_games": 1082.0,
+            "av_percentage": 0.3142326915851673,
+            "game_percentage": 0.3321392283441847
+        },
+        "123": {
+            "total_av": 258.0,
+            "total_games": 1250.0,
+            "av_percentage": 0.293739255177439,
+            "game_percentage": 0.3837098294179582
+        },
+        "124": {
+            "total_av": 274.0,
+            "total_games": 1368.0,
+            "av_percentage": 0.31195564309541973,
+            "game_percentage": 0.4199320373150135
+        },
+        "125": {
+            "total_av": 275.0,
+            "total_games": 1291.0,
+            "av_percentage": 0.3130941673402935,
+            "game_percentage": 0.3962955118228672
+        },
+        "126": {
+            "total_av": 480.0,
+            "total_games": 1622.0,
+            "av_percentage": 0.5464916375394214,
+            "game_percentage": 0.4979018746527426
+        },
+        "127": {
+            "total_av": 175.0,
+            "total_games": 963.0,
+            "av_percentage": 0.19924174285291404,
+            "game_percentage": 0.295610052583595
+        },
+        "128": {
+            "total_av": 350.0,
+            "total_games": 1477.0,
+            "av_percentage": 0.3984834857058281,
+            "game_percentage": 0.4533915344402594
+        },
+        "129": {
+            "total_av": 199.0,
+            "total_games": 1181.0,
+            "av_percentage": 0.22656632472988514,
+            "game_percentage": 0.36252904683408693
+        },
+        "130": {
+            "total_av": 268.0,
+            "total_games": 1175.0,
+            "av_percentage": 0.30512449762617694,
+            "game_percentage": 0.36068723965288074
+        },
+        "131": {
+            "total_av": 248.0,
+            "total_games": 971.0,
+            "av_percentage": 0.2823540127287011,
+            "game_percentage": 0.29806579549186996
+        },
+        "132": {
+            "total_av": 177.0,
+            "total_games": 975.0,
+            "av_percentage": 0.20151879134266162,
+            "game_percentage": 0.2992936669460074
+        },
+        "133": {
+            "total_av": 221.0,
+            "total_games": 1172.0,
+            "av_percentage": 0.25161385811710857,
+            "game_percentage": 0.35976633606227765
+        },
+        "134": {
+            "total_av": 245.0,
+            "total_games": 1037.0,
+            "av_percentage": 0.2789384399940797,
+            "game_percentage": 0.31832567448513815
+        },
+        "135": {
+            "total_av": 368.0,
+            "total_games": 1201.0,
+            "av_percentage": 0.4189769221135564,
+            "game_percentage": 0.3686684041047743
+        },
+        "136": {
+            "total_av": 187.0,
+            "total_games": 1023.0,
+            "av_percentage": 0.21290403379139958,
+            "game_percentage": 0.314028124395657
+        },
+        "137": {
+            "total_av": 375.0,
+            "total_games": 1696.0,
+            "av_percentage": 0.42694659182767297,
+            "game_percentage": 0.5206174965542858
+        },
+        "138": {
+            "total_av": 247.0,
+            "total_games": 1086.0,
+            "av_percentage": 0.28121548848382727,
+            "game_percentage": 0.33336709979832213
+        },
+        "139": {
+            "total_av": 160.0,
+            "total_games": 983.0,
+            "av_percentage": 0.18216387917980714,
+            "game_percentage": 0.30174940985428234
+        },
+        "140": {
+            "total_av": 240.0,
+            "total_games": 1298.0,
+            "av_percentage": 0.2732458187697107,
+            "game_percentage": 0.39844428686760786
+        },
+        "141": {
+            "total_av": 183.0,
+            "total_games": 924.0,
+            "av_percentage": 0.20834993681190442,
+            "game_percentage": 0.28363830590575473
+        },
+        "142": {
+            "total_av": 299.0,
+            "total_games": 1696.0,
+            "av_percentage": 0.34041874921726456,
+            "game_percentage": 0.5206174965542858
+        },
+        "143": {
+            "total_av": 290.0,
+            "total_games": 1295.0,
+            "av_percentage": 0.3301720310134004,
+            "game_percentage": 0.3975233832770047
+        },
+        "144": {
+            "total_av": 200.0,
+            "total_games": 981.0,
+            "av_percentage": 0.2277048489747589,
+            "game_percentage": 0.3011354741272136
+        },
+        "145": {
+            "total_av": 194.0,
+            "total_games": 1116.0,
+            "av_percentage": 0.22087370350551616,
+            "game_percentage": 0.34257613570435314
+        },
+        "146": {
+            "total_av": 452.0,
+            "total_games": 1674.0,
+            "av_percentage": 0.5146129586829551,
+            "game_percentage": 0.5138642035565297
+        },
+        "147": {
+            "total_av": 161.0,
+            "total_games": 904.0,
+            "av_percentage": 0.18330240342468093,
+            "game_percentage": 0.2774989486350674
+        },
+        "148": {
+            "total_av": 139.0,
+            "total_games": 710.0,
+            "av_percentage": 0.15825487003745745,
+            "game_percentage": 0.21794718310940028
+        },
+        "149": {
+            "total_av": 296.0,
+            "total_games": 1250.0,
+            "av_percentage": 0.3370031764826432,
+            "game_percentage": 0.3837098294179582
+        },
+        "150": {
+            "total_av": 174.0,
+            "total_games": 826.0,
+            "av_percentage": 0.19810321860804025,
+            "game_percentage": 0.25355545527938683
+        },
+        "151": {
+            "total_av": 224.0,
+            "total_games": 963.0,
+            "av_percentage": 0.25502943085173,
+            "game_percentage": 0.295610052583595
+        },
+        "152": {
+            "total_av": 150.0,
+            "total_games": 931.0,
+            "av_percentage": 0.1707786367310692,
+            "game_percentage": 0.28578708095049526
+        },
+        "153": {
+            "total_av": 228.0,
+            "total_games": 1317.0,
+            "av_percentage": 0.2595835278312252,
+            "game_percentage": 0.40427667627476077
+        },
+        "154": {
+            "total_av": 351.0,
+            "total_games": 1384.0,
+            "av_percentage": 0.3996220099507019,
+            "game_percentage": 0.4248435231315633
+        },
+        "155": {
+            "total_av": 147.0,
+            "total_games": 958.0,
+            "av_percentage": 0.16736306399644782,
+            "game_percentage": 0.2940752132659232
+        },
+        "156": {
+            "total_av": 167.0,
+            "total_games": 1020.0,
+            "av_percentage": 0.1901335488939237,
+            "game_percentage": 0.31310722080505393
+        },
+        "157": {
+            "total_av": 179.0,
+            "total_games": 976.0,
+            "av_percentage": 0.20379583983240923,
+            "game_percentage": 0.2996006348095418
+        },
+        "158": {
+            "total_av": 116.0,
+            "total_games": 855.0,
+            "av_percentage": 0.13206881240536017,
+            "game_percentage": 0.26245752332188343
+        },
+        "159": {
+            "total_av": 164.0,
+            "total_games": 1021.0,
+            "av_percentage": 0.1867179761593023,
+            "game_percentage": 0.3134141886685883
+        },
+        "160": {
+            "total_av": 185.0,
+            "total_games": 950.0,
+            "av_percentage": 0.210626985301652,
+            "game_percentage": 0.2916194703576483
+        },
+        "161": {
+            "total_av": 201.0,
+            "total_games": 948.0,
+            "av_percentage": 0.22884337321963272,
+            "game_percentage": 0.29100553463057954
+        },
+        "162": {
+            "total_av": 101.0,
+            "total_games": 736.0,
+            "av_percentage": 0.11499094873225325,
+            "game_percentage": 0.2259283475612938
+        },
+        "163": {
+            "total_av": 219.0,
+            "total_games": 949.0,
+            "av_percentage": 0.24933680962736104,
+            "game_percentage": 0.2913125024941139
+        },
+        "164": {
+            "total_av": 225.0,
+            "total_games": 983.0,
+            "av_percentage": 0.2561679550966038,
+            "game_percentage": 0.30174940985428234
+        },
+        "165": {
+            "total_av": 238.0,
+            "total_games": 1259.0,
+            "av_percentage": 0.27096877027996313,
+            "game_percentage": 0.3864725401897675
+        },
+        "166": {
+            "total_av": 222.0,
+            "total_games": 1101.0,
+            "av_percentage": 0.2527523823619824,
+            "game_percentage": 0.3379716177513376
+        },
+        "167": {
+            "total_av": 153.0,
+            "total_games": 783.0,
+            "av_percentage": 0.17419420946569059,
+            "game_percentage": 0.24035583714740902
+        },
+        "168": {
+            "total_av": 224.0,
+            "total_games": 984.0,
+            "av_percentage": 0.25502943085173,
+            "game_percentage": 0.30205637771781674
+        },
+        "169": {
+            "total_av": 216.0,
+            "total_games": 1185.0,
+            "av_percentage": 0.24592123689273962,
+            "game_percentage": 0.3637569182882244
+        },
+        "170": {
+            "total_av": 116.0,
+            "total_games": 666.0,
+            "av_percentage": 0.13206881240536017,
+            "game_percentage": 0.20444059711388815
+        },
+        "171": {
+            "total_av": 98.0,
+            "total_games": 610.0,
+            "av_percentage": 0.11157537599763188,
+            "game_percentage": 0.1872503967559636
+        },
+        "172": {
+            "total_av": 122.0,
+            "total_games": 747.0,
+            "av_percentage": 0.13889995787460294,
+            "game_percentage": 0.22930499406017185
+        },
+        "173": {
+            "total_av": 235.0,
+            "total_games": 1226.0,
+            "av_percentage": 0.26755319754534174,
+            "game_percentage": 0.3763426006931334
+        },
+        "174": {
+            "total_av": 203.0,
+            "total_games": 1149.0,
+            "av_percentage": 0.2311204217093803,
+            "game_percentage": 0.35270607520098723
+        },
+        "175": {
+            "total_av": 171.0,
+            "total_games": 866.0,
+            "av_percentage": 0.19468764587341889,
+            "game_percentage": 0.26583416982076147
+        },
+        "176": {
+            "total_av": 113.0,
+            "total_games": 828.0,
+            "av_percentage": 0.12865323967073877,
+            "game_percentage": 0.2541693910064555
+        },
+        "177": {
+            "total_av": 180.0,
+            "total_games": 1084.0,
+            "av_percentage": 0.20493436407728302,
+            "game_percentage": 0.3327531640712534
+        },
+        "178": {
+            "total_av": 146.0,
+            "total_games": 774.0,
+            "av_percentage": 0.166224539751574,
+            "game_percentage": 0.23759312637559976
+        },
+        "179": {
+            "total_av": 128.0,
+            "total_games": 814.0,
+            "av_percentage": 0.1457311033438457,
+            "game_percentage": 0.24987184091697442
+        },
+        "180": {
+            "total_av": 168.0,
+            "total_games": 872.0,
+            "av_percentage": 0.1912720731387975,
+            "game_percentage": 0.26767597700196766
+        },
+        "181": {
+            "total_av": 177.0,
+            "total_games": 953.0,
+            "av_percentage": 0.20151879134266162,
+            "game_percentage": 0.29254037394825133
+        },
+        "182": {
+            "total_av": 162.0,
+            "total_games": 930.0,
+            "av_percentage": 0.18444092766955472,
+            "game_percentage": 0.2854801130869609
+        },
+        "183": {
+            "total_av": 90.0,
+            "total_games": 619.0,
+            "av_percentage": 0.10246718203864151,
+            "game_percentage": 0.19001310752777292
+        },
+        "184": {
+            "total_av": 101.0,
+            "total_games": 788.0,
+            "av_percentage": 0.11499094873225325,
+            "game_percentage": 0.24189067646508086
+        },
+        "185": {
+            "total_av": 64.0,
+            "total_games": 740.0,
+            "av_percentage": 0.07286555167192285,
+            "game_percentage": 0.2271562190154313
+        },
+        "186": {
+            "total_av": 156.0,
+            "total_games": 795.0,
+            "av_percentage": 0.17760978220031196,
+            "game_percentage": 0.24403945150982143
+        },
+        "187": {
+            "total_av": 233.0,
+            "total_games": 931.0,
+            "av_percentage": 0.26527614905559416,
+            "game_percentage": 0.28578708095049526
+        },
+        "188": {
+            "total_av": 193.0,
+            "total_games": 1111.0,
+            "av_percentage": 0.21973517926064234,
+            "game_percentage": 0.34104129638668124
+        },
+        "189": {
+            "total_av": 170.0,
+            "total_games": 908.0,
+            "av_percentage": 0.1935491216285451,
+            "game_percentage": 0.27872682008920485
+        },
+        "190": {
+            "total_av": 165.0,
+            "total_games": 941.0,
+            "av_percentage": 0.18785650040417612,
+            "game_percentage": 0.28885675958583895
+        },
+        "191": {
+            "total_av": 260.0,
+            "total_games": 1212.0,
+            "av_percentage": 0.2960163036671866,
+            "game_percentage": 0.37204505060365234
+        },
+        "192": {
+            "total_av": 95.0,
+            "total_games": 683.0,
+            "av_percentage": 0.10815980326301047,
+            "game_percentage": 0.2096590507939724
+        },
+        "193": {
+            "total_av": 218.0,
+            "total_games": 1053.0,
+            "av_percentage": 0.2481982853824872,
+            "game_percentage": 0.32323716030168803
+        },
+        "194": {
+            "total_av": 124.0,
+            "total_games": 643.0,
+            "av_percentage": 0.14117700636435054,
+            "game_percentage": 0.1973803362525977
+        },
+        "195": {
+            "total_av": 241.0,
+            "total_games": 856.0,
+            "av_percentage": 0.2743843430145845,
+            "game_percentage": 0.2627644911854178
+        },
+        "196": {
+            "total_av": 86.0,
+            "total_games": 784.0,
+            "av_percentage": 0.09791308505914632,
+            "game_percentage": 0.2406628050109434
+        },
+        "197": {
+            "total_av": 101.0,
+            "total_games": 688.0,
+            "av_percentage": 0.11499094873225325,
+            "game_percentage": 0.21119389011164422
+        },
+        "198": {
+            "total_av": 144.0,
+            "total_games": 926.0,
+            "av_percentage": 0.16394749126182642,
+            "game_percentage": 0.2842522416328235
+        },
+        "199": {
+            "total_av": 331.0,
+            "total_games": 1100.0,
+            "av_percentage": 0.376851525053226,
+            "game_percentage": 0.3376646498878032
+        },
+        "200": {
+            "total_av": 207.0,
+            "total_games": 791.0,
+            "av_percentage": 0.23567451868887548,
+            "game_percentage": 0.24281158005568398
+        },
+        "201": {
+            "total_av": 69.0,
+            "total_games": 525.0,
+            "av_percentage": 0.07855817289629183,
+            "game_percentage": 0.16115812835554244
+        },
+        "202": {
+            "total_av": 94.0,
+            "total_games": 689.0,
+            "av_percentage": 0.10702127901813668,
+            "game_percentage": 0.2115008579751786
+        },
+        "203": {
+            "total_av": 143.0,
+            "total_games": 811.0,
+            "av_percentage": 0.16280896701695263,
+            "game_percentage": 0.2489509373263713
+        },
+        "204": {
+            "total_av": 164.0,
+            "total_games": 883.0,
+            "av_percentage": 0.1867179761593023,
+            "game_percentage": 0.2710526235008457
+        },
+        "205": {
+            "total_av": 158.0,
+            "total_games": 864.0,
+            "av_percentage": 0.17988683069005953,
+            "game_percentage": 0.2652202340936927
+        },
+        "206": {
+            "total_av": 111.0,
+            "total_games": 883.0,
+            "av_percentage": 0.1263761911809912,
+            "game_percentage": 0.2710526235008457
+        },
+        "207": {
+            "total_av": 234.0,
+            "total_games": 1108.0,
+            "av_percentage": 0.2664146733004679,
+            "game_percentage": 0.3401203927960782
+        },
+        "208": {
+            "total_av": 74.0,
+            "total_games": 673.0,
+            "av_percentage": 0.0842507941206608,
+            "game_percentage": 0.20658937215862874
+        },
+        "209": {
+            "total_av": 104.0,
+            "total_games": 557.0,
+            "av_percentage": 0.11840652146687464,
+            "game_percentage": 0.1709810999886422
+        },
+        "210": {
+            "total_av": 136.0,
+            "total_games": 939.0,
+            "av_percentage": 0.15483929730283605,
+            "game_percentage": 0.28824282385877026
+        },
+        "211": {
+            "total_av": 72.0,
+            "total_games": 687.0,
+            "av_percentage": 0.08197374563091321,
+            "game_percentage": 0.21088692224810984
+        },
+        "212": {
+            "total_av": 75.0,
+            "total_games": 550.0,
+            "av_percentage": 0.0853893183655346,
+            "game_percentage": 0.1688323249439016
+        },
+        "213": {
+            "total_av": 135.0,
+            "total_games": 740.0,
+            "av_percentage": 0.1537007730579623,
+            "game_percentage": 0.2271562190154313
+        },
+        "214": {
+            "total_av": 102.0,
+            "total_games": 539.0,
+            "av_percentage": 0.11612947297712706,
+            "game_percentage": 0.1654556784450236
+        },
+        "215": {
+            "total_av": 141.0,
+            "total_games": 772.0,
+            "av_percentage": 0.16053191852720503,
+            "game_percentage": 0.236979190648531
+        },
+        "216": {
+            "total_av": 170.0,
+            "total_games": 812.0,
+            "av_percentage": 0.1935491216285451,
+            "game_percentage": 0.24925790518990568
+        },
+        "217": {
+            "total_av": 107.0,
+            "total_games": 711.0,
+            "av_percentage": 0.12182209420149603,
+            "game_percentage": 0.21825415097293466
+        },
+        "218": {
+            "total_av": 140.0,
+            "total_games": 705.0,
+            "av_percentage": 0.15939339428233124,
+            "game_percentage": 0.21641234379172844
+        },
+        "219": {
+            "total_av": 102.0,
+            "total_games": 554.0,
+            "av_percentage": 0.11612947297712706,
+            "game_percentage": 0.1700601963980391
+        },
+        "220": {
+            "total_av": 132.0,
+            "total_games": 854.0,
+            "av_percentage": 0.1502852003233409,
+            "game_percentage": 0.2621505554583491
+        },
+        "221": {
+            "total_av": 89.0,
+            "total_games": 538.0,
+            "av_percentage": 0.10132865779376773,
+            "game_percentage": 0.16514871058148922
+        },
+        "222": {
+            "total_av": 118.0,
+            "total_games": 767.0,
+            "av_percentage": 0.13434586089510775,
+            "game_percentage": 0.23544435133085917
+        },
+        "223": {
+            "total_av": 64.0,
+            "total_games": 521.0,
+            "av_percentage": 0.07286555167192285,
+            "game_percentage": 0.159930256901405
+        },
+        "224": {
+            "total_av": 253.0,
+            "total_games": 1117.0,
+            "av_percentage": 0.28804663395307006,
+            "game_percentage": 0.3428831035678875
+        },
+        "225": {
+            "total_av": 105.0,
+            "total_games": 621.0,
+            "av_percentage": 0.11954504571174843,
+            "game_percentage": 0.19062704325484164
+        },
+        "226": {
+            "total_av": 132.0,
+            "total_games": 642.0,
+            "av_percentage": 0.1502852003233409,
+            "game_percentage": 0.19707336838906334
+        },
+        "227": {
+            "total_av": 85.0,
+            "total_games": 508.0,
+            "av_percentage": 0.09677456081427255,
+            "game_percentage": 0.15593967467545822
+        },
+        "228": {
+            "total_av": 92.0,
+            "total_games": 778.0,
+            "av_percentage": 0.1047442305283891,
+            "game_percentage": 0.2388209978297372
+        },
+        "229": {
+            "total_av": 98.0,
+            "total_games": 576.0,
+            "av_percentage": 0.11157537599763188,
+            "game_percentage": 0.17681348939579514
+        },
+        "230": {
+            "total_av": 161.0,
+            "total_games": 963.0,
+            "av_percentage": 0.18330240342468093,
+            "game_percentage": 0.295610052583595
+        },
+        "231": {
+            "total_av": 51.0,
+            "total_games": 368.0,
+            "av_percentage": 0.05806473648856353,
+            "game_percentage": 0.1129641737806469
+        },
+        "232": {
+            "total_av": 109.0,
+            "total_games": 598.0,
+            "av_percentage": 0.1240991426912436,
+            "game_percentage": 0.18356678239355123
+        },
+        "233": {
+            "total_av": 245.0,
+            "total_games": 1151.0,
+            "av_percentage": 0.2789384399940797,
+            "game_percentage": 0.3533200109280559
+        },
+        "234": {
+            "total_av": 105.0,
+            "total_games": 681.0,
+            "av_percentage": 0.11954504571174843,
+            "game_percentage": 0.20904511506690365
+        },
+        "235": {
+            "total_av": 127.0,
+            "total_games": 631.0,
+            "av_percentage": 0.1445925790989719,
+            "game_percentage": 0.19369672189018533
+        },
+        "236": {
+            "total_av": 52.0,
+            "total_games": 514.0,
+            "av_percentage": 0.05920326073343732,
+            "game_percentage": 0.15778148185666444
+        },
+        "237": {
+            "total_av": 51.0,
+            "total_games": 387.0,
+            "av_percentage": 0.05806473648856353,
+            "game_percentage": 0.11879656318779988
+        },
+        "238": {
+            "total_av": 89.0,
+            "total_games": 518.0,
+            "av_percentage": 0.10132865779376773,
+            "game_percentage": 0.1590093533108019
+        },
+        "239": {
+            "total_av": 181.0,
+            "total_games": 933.0,
+            "av_percentage": 0.20607288832215684,
+            "game_percentage": 0.286401016677564
+        },
+        "240": {
+            "total_av": 95.0,
+            "total_games": 537.0,
+            "av_percentage": 0.10815980326301047,
+            "game_percentage": 0.16484174271795485
+        },
+        "241": {
+            "total_av": 65.0,
+            "total_games": 550.0,
+            "av_percentage": 0.07400407591679665,
+            "game_percentage": 0.1688323249439016
+        },
+        "242": {
+            "total_av": 169.0,
+            "total_games": 801.0,
+            "av_percentage": 0.19241059738367128,
+            "game_percentage": 0.24588125869102764
+        },
+        "243": {
+            "total_av": 81.0,
+            "total_games": 852.0,
+            "av_percentage": 0.09222046383477736,
+            "game_percentage": 0.26153661973128034
+        },
+        "244": {
+            "total_av": 189.0,
+            "total_games": 931.0,
+            "av_percentage": 0.21518108228114718,
+            "game_percentage": 0.28578708095049526
+        },
+        "245": {
+            "total_av": 93.0,
+            "total_games": 666.0,
+            "av_percentage": 0.10588275477326291,
+            "game_percentage": 0.20444059711388815
+        },
+        "246": {
+            "total_av": 103.0,
+            "total_games": 601.0,
+            "av_percentage": 0.11726799722200085,
+            "game_percentage": 0.1844876859841543
+        },
+        "247": {
+            "total_av": 48.0,
+            "total_games": 362.0,
+            "av_percentage": 0.05464916375394214,
+            "game_percentage": 0.11112236659944072
+        },
+        "248": {
+            "total_av": 160.0,
+            "total_games": 599.0,
+            "av_percentage": 0.18216387917980714,
+            "game_percentage": 0.18387375025708558
+        },
+        "249": {
+            "total_av": 136.0,
+            "total_games": 780.0,
+            "av_percentage": 0.15483929730283605,
+            "game_percentage": 0.23943493355680595
+        },
+        "250": {
+            "total_av": 211.0,
+            "total_games": 786.0,
+            "av_percentage": 0.24022861566837064,
+            "game_percentage": 0.24127674073801214
+        },
+        "251": {
+            "total_av": 177.0,
+            "total_games": 973.0,
+            "av_percentage": 0.20151879134266162,
+            "game_percentage": 0.2986797312189387
+        },
+        "252": {
+            "total_av": 117.0,
+            "total_games": 498.0,
+            "av_percentage": 0.13320733665023396,
+            "game_percentage": 0.15286999604011456
+        },
+        "253": {
+            "total_av": 86.0,
+            "total_games": 562.0,
+            "av_percentage": 0.09791308505914632,
+            "game_percentage": 0.172515939306314
+        },
+        "254": {
+            "total_av": 59.0,
+            "total_games": 437.0,
+            "av_percentage": 0.06717293044755387,
+            "game_percentage": 0.1341449563645182
+        },
+        "255": {
+            "total_av": 78.0,
+            "total_games": 330.0,
+            "av_percentage": 0.08880489110015598,
+            "game_percentage": 0.10129939496634098
+        },
+        "256": {
+            "total_av": 31.0,
+            "total_games": 272.0,
+            "av_percentage": 0.035294251591087636,
+            "game_percentage": 0.08349525888134772
+        },
+        "257": {
+            "total_av": 10.0,
+            "total_games": 165.0,
+            "av_percentage": 0.011385242448737946,
+            "game_percentage": 0.05064969748317049
+        },
+        "258": {
+            "total_av": 2.0,
+            "total_games": 50.0,
+            "av_percentage": 0.002277048489747589,
+            "game_percentage": 0.01534839317671833
+        },
+        "259": {
+            "total_av": 4.0,
+            "total_games": 64.0,
+            "av_percentage": 0.004554096979495178,
+            "game_percentage": 0.01964594326619946
+        },
+        "260": {
+            "total_av": 2.0,
+            "total_games": 36.0,
+            "av_percentage": 0.002277048489747589,
+            "game_percentage": 0.011050843087237196
+        },
+        "261": {
+            "total_av": 1.0,
+            "total_games": 12.0,
+            "av_percentage": 0.0011385242448737946,
+            "game_percentage": 0.003683614362412399
+        },
+        "262": {
+            "total_av": 6.0,
+            "total_games": 17.0,
+            "av_percentage": 0.006831145469242767,
+            "game_percentage": 0.0052184536800842325
+        }
+    },
+    "overall_totals": {
+        "total_av": 87833.0,
+        "total_games": 325767.0
+    }
+}

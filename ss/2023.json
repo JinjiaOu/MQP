@@ -1,0 +1,58 @@
+{
+    "Year": "2023",
+    "Type": "Total AV and Games Played per Round with Percentages",
+    "Round Data": {
+        "1": {
+            "total_av": 0.0,
+            "total_games": 213.0,
+            "av_percentage": 0,
+            "games_percentage": 10.76301162203133
+        },
+        "2": {
+            "total_av": 0.0,
+            "total_games": 214.0,
+            "av_percentage": 0,
+            "games_percentage": 10.813542193026782
+        },
+        "3": {
+            "total_av": 0.0,
+            "total_games": 222.0,
+            "av_percentage": 0,
+            "games_percentage": 11.217786760990398
+        },
+        "4": {
+            "total_av": 0.0,
+            "total_games": 158.0,
+            "av_percentage": 0,
+            "games_percentage": 7.983830217281455
+        },
+        "5": {
+            "total_av": 0.0,
+            "total_games": 165.0,
+            "av_percentage": 0,
+            "games_percentage": 8.33754421424962
+        },
+        "6": {
+            "total_av": 0.0,
+            "total_games": 155.0,
+            "av_percentage": 0,
+            "games_percentage": 7.832238504295098
+        },
+        "7": {
+            "total_av": 0.0,
+            "total_games": 84.0,
+            "av_percentage": 0,
+            "games_percentage": 4.244567963617989
+        },
+        "Undrafted Percentages": {
+            "games_percentage": 38.807478524507324,
+            "av_percentage": 0
+        }
+    },
+    "Total Games Played for the Year": 1979.0,
+    "Total AV for the Year": 0.0,
+    "Total Games Played by Drafted Players": 1211.0,
+    "Total AV for Drafted Players": 0.0,
+    "Total Games Played by Undrafted Players": 768,
+    "Total AV for Undrafted Players": 0
+}

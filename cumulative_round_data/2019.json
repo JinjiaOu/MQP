@@ -1,0 +1,50 @@
+{
+    "Year": "2019",
+    "Type": "Total AV and Games Played per Round with Percentages",
+    "Round Data": {
+        "1": {
+            "total_av": 761.0,
+            "total_games": 1911.0,
+            "av_percentage": 30.488782051282055,
+            "games_percentage": 18.753680078508342
+        },
+        "2": {
+            "total_av": 497.0,
+            "total_games": 1720.0,
+            "av_percentage": 19.911858974358974,
+            "games_percentage": 16.8792934249264
+        },
+        "3": {
+            "total_av": 463.0,
+            "total_games": 1913.0,
+            "av_percentage": 18.54967948717949,
+            "games_percentage": 18.773307163886162
+        },
+        "4": {
+            "total_av": 257.0,
+            "total_games": 1392.0,
+            "av_percentage": 10.296474358974358,
+            "games_percentage": 13.66045142296369
+        },
+        "5": {
+            "total_av": 248.0,
+            "total_games": 1245.0,
+            "av_percentage": 9.935897435897436,
+            "games_percentage": 12.217860647693819
+        },
+        "6": {
+            "total_av": 190.0,
+            "total_games": 1248.0,
+            "av_percentage": 7.612179487179486,
+            "games_percentage": 12.24730127576055
+        },
+        "7": {
+            "total_av": 80.0,
+            "total_games": 761.0,
+            "av_percentage": 3.205128205128205,
+            "games_percentage": 7.46810598626104
+        }
+    },
+    "Total Games Played for the Year": 10190.0,
+    "Total AV for the Year": 2496.0
+}

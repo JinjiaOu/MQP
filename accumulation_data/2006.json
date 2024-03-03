@@ -1,0 +1,34 @@
+{
+    "Year": "2006",
+    "Type": "Total AV and Games Played per Round",
+    "Data": {
+        "1": {
+            "total_av": 1475.0,
+            "total_games": 4144.0
+        },
+        "2": {
+            "total_av": 1112.0,
+            "total_games": 3481.0
+        },
+        "3": {
+            "total_av": 403.0,
+            "total_games": 1957.0
+        },
+        "4": {
+            "total_av": 838.0,
+            "total_games": 2965.0
+        },
+        "5": {
+            "total_av": 454.0,
+            "total_games": 1785.0
+        },
+        "6": {
+            "total_av": 434.0,
+            "total_games": 2141.0
+        },
+        "7": {
+            "total_av": 319.0,
+            "total_games": 1479.0
+        }
+    }
+}

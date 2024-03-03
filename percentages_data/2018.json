@@ -1,0 +1,42 @@
+{
+    "Year": "2018",
+    "Type": "Total AV and Games Played per Round with Percentages",
+    "Data": {
+        "1": {
+            "total_av": 1012.0,
+            "total_games": 2290.0,
+            "games_percentage": 17.240081306933675
+        },
+        "2": {
+            "total_av": 638.0,
+            "total_games": 2016.0,
+            "games_percentage": 15.177294285929383
+        },
+        "3": {
+            "total_av": 631.0,
+            "total_games": 2408.0,
+            "games_percentage": 18.128434841526765
+        },
+        "4": {
+            "total_av": 369.0,
+            "total_games": 1934.0,
+            "games_percentage": 14.559963863585034
+        },
+        "5": {
+            "total_av": 346.0,
+            "total_games": 1946.0,
+            "games_percentage": 14.65030490100128
+        },
+        "6": {
+            "total_av": 251.0,
+            "total_games": 1503.0,
+            "games_percentage": 11.315214936384853
+        },
+        "7": {
+            "total_av": 175.0,
+            "total_games": 1186.0,
+            "games_percentage": 8.928705864639012
+        }
+    },
+    "Total Games Played for the Year": 13283.0
+}
